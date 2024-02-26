@@ -1,0 +1,4 @@
+INFO     run_all_case.py:test_dream_dreamInfoList.py:35 开始执行脚本test_dream_dreamInfoList:
+
+INFO     common.Assert:Assert.py:31 statusCode true, expected_code is 0, statusCode is 0 
+INFO     common.Assert:Assert.py:50 Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功

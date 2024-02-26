@@ -1,0 +1,187 @@
+
+  File "d:/Github/python_100/python_11-20_html.py", line 136, in Question12_app
+    put_scope('Q1',content=style(put_text(Q_data["Question_12"]['B1']),'color:red'))
+KeyError: 'Question_12'
+2022-10-28 17:20:19 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Github/python_100/python_11-20_html.py", line 136, in Question12_app
+    put_scope('Q1',content=style(put_text(Q_data["Question_12"]['B1']),'color:red'))
+KeyError: 'Question_12'
+2022-12-12 15:37:50 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 198, in <lambda>
+    pin.pin16_year,pin.pin16_month,pin.pin16_day
+  File "d:\Github\python_100\question\Question_16.py", line 42, in Question_16
+    put_text(datetime.date(Q16_YEAR,Q16_month,Q16_day))  #2333-03-03
+TypeError: an integer is required (got type str)
+2022-12-12 15:37:52 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 198, in <lambda>
+    pin.pin16_year,pin.pin16_month,pin.pin16_day
+  File "d:\Github\python_100\question\Question_16.py", line 42, in Question_16
+    put_text(datetime.date(Q16_YEAR,Q16_month,Q16_day))  #2333-03-03
+TypeError: an integer is required (got type str)
+2022-12-13 14:58:00 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 252, in <lambda>
+    put_buttons([dict(label='求和', value='s', color='success')],lambda _: Question_19(
+NameError: name 'Question_19' is not defined
+2022-12-13 15:57:55 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Github/python_100/python_21-30_html.py", line 124, in Question21_app
+    from question.Question_21 import Question_21
+ImportError: cannot import name 'Question_21' from 'question.Question_21' (d:\Github\python_100\question\Question_21.py)
+2023-01-17 18:46:10 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 178, in <lambda>
+    pin.pin25_num
+  File "d:\Git\python_100\question\Question_25.py", line 46, in Question_25
+    sum_txt= sum_txt[0,-1]
+TypeError: string indices must be integers
+2023-01-17 18:47:03 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 178, in <lambda>
+    pin.pin25_num
+  File "d:\Git\python_100\question\Question_25.py", line 46, in Question_25
+    sum_txt= sum_txt[0:-1]
+TypeError: string indices must be integers
+2023-01-17 20:07:19 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Git/python_100/python_21-30_html.py", line 197, in Question27_app
+    from question.Question_27 import Question_276
+ImportError: cannot import name 'Question_276' from 'question.Question_27' (d:\Git\python_100\question\Question_27.py)
+2023-01-18 10:42:59 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 42, in Question_30
+    elif len_num < 5 or len_num % 2 == 0:
+TypeError: '<' not supported between instances of 'NoneType' and 'int'
+2023-01-18 10:48:34 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 42, in Question_30
+    if isit_natural(len_num) == False :
+  File "d:\Git\python_100\Q_class\Isit_number.py", line 30, in isit_natural
+    if float(s) == 0:
+TypeError: float() argument must be a string or a number, not 'NoneType'
+2023-01-18 10:53:47 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 38, in Question_30
+    if isit_natural(num) == False or len(num) % 2 == 0:
+TypeError: object of type 'int' has no len()
+2023-08-12 10:24:01 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_1-10_html.py", line 139, in <lambda>
+    put_buttons([dict(label='计算', value='s', color='success')],lambda _: Question_02(pin.pin_name)).style('padding-top:30px')
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 1796, in wrapper
+    return func(*args, **kwargs)
+  File "d:\Github\python_100\question\Question_02.py", line 39, in Question_02
+    QLog_02=style(put_text(f'需要发放奖金{pd.money1}元',position=-1),'color:red')
+  File "C:\Python37\lib\site-packages\pandas\__init__.py", line 258, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'money1'
+2023-08-12 10:24:02 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_1-10_html.py", line 139, in <lambda>
+    put_buttons([dict(label='计算', value='s', color='success')],lambda _: Question_02(pin.pin_name)).style('padding-top:30px')
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 1796, in wrapper
+    return func(*args, **kwargs)
+  File "d:\Github\python_100\question\Question_02.py", line 39, in Question_02
+    QLog_02=style(put_text(f'需要发放奖金{pd.money1}元',position=-1),'color:red')
+  File "C:\Python37\lib\site-packages\pandas\__init__.py", line 258, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'money1'
+2024-01-23 12:16:43 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:16:44 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:19:26 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:20:42 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Git/python_100/python_31-40_html.py", line 137, in Question36_app
+    put_input('pin36_text',type=Number,label='请输入一个整数'),None,
+  File "C:\Python37\lib\site-packages\pywebio\pin.py", line 154, in put_input
+    readonly=readonly, datalist=datalist, help_text=help_text)
+  File "C:\Python37\lib\site-packages\pywebio\input.py", line 229, in input
+    assert type in allowed_type, 'Input type not allowed.'
+AssertionError: Input type not allowed.

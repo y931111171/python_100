@@ -1,0 +1,253 @@
+
+# !/usr/bin/env python
+# -*-coding:utf-8 -*-
+
+"""
+# File       : 20220409_urllib_2.py
+# Time       ：2022/7/29 11:12
+# Author     ：sanmuxiaomei 
+# version    ：python 3.7
+# email      ：349258449@qq.com 
+"""
+
+'''PyWebIO使用'''
+
+# -*- coding:utf-8 -*-
+
+from importlib.resources import path
+import time, os
+from pywebio.input import NUMBER, TEXT
+from pywebio.input import input, textarea, select, checkbox, radio, slider, actions, file_upload
+from pywebio.input import input_group, input_update
+from pywebio.output import put_text, put_markdown, put_buttons, put_scope, get_scope, put_info, put_warning, put_error, put_success, put_html, put_link, put_processbar, put_loading, put_code, put_table, put_button, put_buttons, put_image, put_file, put_tabs, put_collapse, put_scrollable, put_widget, put_row, put_column, put_grid
+from pywebio.output import popup, toast, span, style
+from pywebio import start_server
+
+
+
+current_workspace = os.path.join(os.path.dirname(os.path.abspath(__file__)))
+out_path = os.path.join(current_workspace, 'output')
+'''pywebio中 Input组件介绍:
+input(), 输入框
+textarea(), 多行文本输入框
+select(), 下拉选框
+checkbox(), 多(复)选框
+radio(), 单选框
+slider(), 进度条
+file_upload(), 文件上传按钮
+actions(), 按钮
+input_group(), 是以上几个组件的一个组合，我们可以认为是一个表单：Input group
+input_update(), 动态更新组件的内容：Update attributes of input field
+input_control(), 发送input命令，监听事件，验证输入项，返回结果
+
+注意事项: 单个标签不能添加name属性，input_group中需要添加name属性。
+'''
+def user_input_single_component():
+    '''input_component'''  #注意函数第一行注释为浏览器页面名字
+
+    '''组件常用详细的参数介绍:
+    validate=check_name(函数名)，校验输入合法性；
+    action=('Now', set_now_ts), 输入框右侧有一个小按钮，点击按钮快速填写值，我将这个功能称之为格式化输入；
+    οnchange=('xx', func), 当前输入框根据某个输入框输入内容而自动改变内容，常常和input_update()联合应用；最典型的应用为 省份和城市的对应关系填写。
+    placeholder=string, 占位符；输入框中的提示内容；注意优先级低于value；
+    required=True/False, 校验输入框不能为空，为必填项；
+    readonly=True/False, 输入框内容只读;
+    datalist=list, 常驻输入联想
+    help_text=string, 填写帮助文字说明;
+    '''
+    ## 单个组件
+    def check_name(username):
+        if len(username) < 1 or len(username) > 60:
+            return 'username is illegality!'
+        else:
+            pass
+        
+    def set_now_ts(set_value):
+        set_value(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime()))
+
+    username = input(label='姓名', type=TEXT, validate=check_name, required=True, placeholder='xx xx xx', help_text='please input your name', action=('now', set_now_ts), datalist=['jack','zhangsan','lisi','qianwu'])
+    put_text(username) #输出到浏览器
+    print(username) #后台输出信息
+    
+### action 参数重点demo如下，多个按钮：
+    from datetime import date,timedelta
+    def select_date(set_value):
+        with popup('Select Date'): #popup 弹框
+            put_buttons(['Today'], onclick=[lambda: set_value(date.today(), 'Today')])
+            put_buttons(['Yesterday'], onclick=[lambda: set_value(date.today() - timedelta(days=1), 'Yesterday')])
+    log_date = put_text(label='日志信息', type=TEXT, required=True, action=('Select', select_date))
+
+
+### onchange 参数demo， 选择对应的省份，选择对应的城市（province-city）：
+    p_c_data = {'北京市':['朝阳区','海淀区','通州区','房山区','丰台区','昌平区','大兴区','顺义区','西城区','延庆县','石景山区','宣武区','怀柔区','崇文区','密云县','东城区','门头沟区','平谷区'],'广东省':['东莞市','广州市','中山市','深圳市','惠州市','江门市','珠海市','汕头市','佛山市','湛江市','河源市','肇庆市','潮州市','清远市','韶关市','揭阳市','阳江市','云浮市','茂名市','梅州市','汕尾市'],'云南省':['昆明市','红河州','大理州','文山州','德宏州','曲靖市','昭通市','楚雄州','保山市','玉溪市','丽江地区','临沧地区','思茅地区','西双版纳州','怒江州','迪庆州'],'湖北省':['武汉市','宜昌市','襄樊市','荆州市','恩施州','孝感市','黄冈市','十堰市','咸宁市','黄石市','仙桃市','随州市','天门市','荆门市','潜江市','鄂州市','神农架林区']}
+    province_list = list(p_c_data.keys())
+    p_c = input_group('china_province_city', [
+        select(label='province', name='province', options=province_list, onchange=lambda c:input_update('city', options=p_c_data[c])),
+        select(label='city', name='city', options=p_c_data[province_list[0]])
+    ])
+    
+def user_input_group_component():
+    ##多个组件组合
+    '''group component'''
+    '''
+    type: submit/cancel/reset
+    color: primary/secondary/success/danger/warning/info/light/dark
+    disabled: 是否禁用该按钮
+
+    注意: 提交与重置按钮会自动增加，但是若actions按钮放在最后，则需要自己写提交按钮
+    '''
+    user = input_group("User info",[
+        input(label="what's your name?", name='name', type=TEXT, help_text='input your name'),
+        textarea(label='desicreption', name='intro'),
+        select('which gift you want?', name='want', options=['money', 'girl', 'car']),
+        checkbox('your favirote?', name='hobby', options=['python', 'java', 'c', 'c++', 'javascript']),
+        radio(label='your role?', name='role', options=['teacher', 'father', 'son', 'CEO']),
+        slider(label="process", name='process', max_value=12, min_value=0, step=2),
+        actions(label='Choose your country?', name='country', buttons=[{'label':'China', 'value':'中国', 'type':'submit', 'color':'primary', 'disabled':False}, {'label':'American', 'value':'美国'}, {'label':'Japan', 'value':'日本'}, {'label':'England', 'value':'英国', 'type':'submit', 'color':'danger'}, {'label':'Russia', 'value':'俄罗斯', 'type':'submit', 'color':'warning'}], help_text='请选择你的国家'),
+        file_upload(label='file', name='file'),
+    ])
+    put_text(user)
+
+'''pywebio中 Output组件:
+Output Scope:
+    put_scope() 设置作用域，其他可以指定它
+Content Outputting:
+    put_text()、put_markdown()
+    put_info()、put_success()、put_warning()、put_error()
+    put_html()、put_link()、put_processbar()、put_loading()、put_code()、put_table()
+    put_button()、put_buttons()、put_image()、put_file()
+    put_tabs()、put_collapse()、put_scrollable()、put_widget()
+Other Interactions:
+    toast() 提示框、popup() 弹框、
+Layout and Style:
+    put_row()、put_column()、put_grid()
+    span()、style()
+'''
+def user_output_component():
+    '''output'''
+    print(get_scope()) #return ROOT
+
+    text1='My name is jack! 20 year old.'
+    text2='Now, I have six projects.'
+    put_text(text1, text2, sep='\n') #Output plain text 
+    put_markdown('''# 这是一级标题''') #Output Markdown 
+    
+    ## Output Messages. 
+    put_info('this is info message!')
+    put_warning('this is warning message!')
+    put_error('this is error message!')
+    put_success('this is successful messgae!')
+
+    put_html(os.path.join(out_path, 'put_html_demo.html')) #Output html
+    put_markdown('''------------''')
+    put_processbar(name='counts', init=1, label='counts', auto_close=True)
+    put_markdown('''------------''')    
+    put_link(name='my blog', url='https://blog.csdn.net/qq_40494873?spm=1001.2101.3001.5343', new_window=True) # 超链接；Output hyperlinks to other web page or PyWebIO Application page.
+    put_markdown('''***********************''')   
+    #Output loading prompt
+    # shape=border/grow
+    # color='primary'、'secondary'、'success'、'danger'、'warning'、'info'、'light'、'dark'(default)
+    put_loading(shape='border', color='dark')
+
+    put_code('import os, time \nfrom pywebio.input import NUMBER, TEXT', language='python', rows=3) #Output code block
+
+    fruits_datalist = [['苹果', 20, 12], ['香蕉', 34, 10], ['橘子', 45, 14]]
+    fruits_header = ['水果', '数量', '单价']
+    put_table(fruits_datalist, fruits_header) #Output table
+
+    # Output a single button and bind click event to it
+    put_button(label='put button demo', onclick=lambda: toast("提示框"), color='dark', outline=True, disabled=False)
+
+    #Output a group of buttons and bind click event
+    put_buttons(buttons=[{'label':'china', 'value':'中国', 'color':'dark'}, {'label':'USA', 'value':'美国', 'color':'danger'},], onclick=lambda x: toast(x), group=True)
+
+    # Output image
+    # format: ``png``, ``jpeg``, ``gif``, etc.
+    put_image(src='https://gitee.com/cat310/pic-manager/raw/master/pic-manager/001.png', title='草原', width='100%', height='50%', format='gif')
+
+    # output a link to download a file, 将本地文件读取，然后生成网页下载链接
+    content = open(os.path.join(out_path, 'radar_demo.html'), 'rb').read()
+    put_file(name='file_demo.html', content=content, label='download file')
+
+
+    #o utput tabs. 菜单
+    put_tabs(tabs=[
+        {'title': 'Text', 'content': 'Hello world'},
+        {'title': 'Markdown', 'content': put_markdown('~~Strikethrough~~')},
+        {'title': 'More content', 'content': [
+            put_table([
+                ['Commodity', 'Price'],
+                ['Apple', '5.5'],
+                ['Banana', '7'],
+            ]),
+            put_link('pywebio', 'https://github.com/wang0618/PyWebIO')
+        ]},
+    ])
+
+    #Output collapsible content, 折叠框
+    put_collapse(title='Collapse title', content=[
+            'text',
+            put_markdown('~~Strikethrough~~'),
+            put_table([
+                ['Commodity', 'Price'],
+                ['Apple', '5.5'],
+            ])
+        ], open=True)
+    
+    #Output a fixed height content area. scroll bar is displayed when the content exceeds the limit
+    # put_scope 用来设置作用域，put_text()指定作用域； 当数据超出范围 滚动条
+    put_scrollable(put_scope('scrollable'), height=200, keep_bottom=True)
+    put_text("You can click the area to prevent auto scroll."*200, scope='scrollable')
+
+    # Output your own widget; 嵌入式窗口
+    tpl = '''
+        <details {{#open}}open{{/open}}>
+            <summary>{{title}}</summary>
+            {{#contents}}
+                {{& pywebio_output_parse}}
+            {{/contents}}
+        </details>
+        '''
+    put_widget(tpl, {
+        "open": True,
+        "title": 'More content',
+        "contents": [
+            'text',
+            put_markdown('~~Strikethrough~~'),
+            put_table([
+                ['Commodity', 'Price'],
+                ['Apple', '5.5'],
+                ['Banana', '7'],
+            ])
+        ]
+    })
+
+    # se row layout to output content. The content is arranged horizontally
+    # 按行布局
+    put_row([put_code('A'), None, put_code('B')])
+    put_row([put_code('A'), None, put_code('B')], size='40% 10px 60%')
+
+    # Use column layout to output content. The content is arranged vertically
+    # 按列布局
+    put_column(content=[put_markdown('''# 一级标题'''), put_error('this is error message!'), put_text('this is put text')])
+
+    #Output content using grid layout; 栅栏
+    put_grid([
+        [put_text('A'), put_text('B'), put_text('C')],
+        [None, span(put_text('D'), col=2, row=1)],
+        [put_text('E'), put_text('F'), put_text('G')],
+    ], cell_width='100px', cell_height='100px')
+
+    ## 使用style，将text设置css样式
+    style(put_text('红色文字，段落，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'), 'color:red')
+    put_table([
+        ['A', 'B'],
+        ['C', style(put_text('Red'), 'color:red')],
+    ])
+    put_collapse('title', style([
+        put_text('text'),
+        put_markdown('~~del~~'),
+    ], 'margin-left:20px'))
+
+if __name__=="__main__":
+    start_server(user_output_component, debug=True, port=8081)

@@ -1,0 +1,32 @@
+Fri, 08 May 2020 08:52:43-test_case.test_operation_list-test_operation_list.py-[line:30]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 08:52:43-test_case.test_rl_add-test_rl_add.py-[line:29]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:34]-ERROR-[日志信息]: statusCode error, expected_code is 1, statusCode is 0 
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:34]-ERROR-[日志信息]: statusCode error, expected_code is 1, statusCode is 0 
+Fri, 08 May 2020 08:52:43-test_case.test_rl_common-test_rl_common.py-[line:31]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 08:52:43-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 09:43:18-test_case.test_operation_list-test_operation_list.py-[line:30]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 09:43:18-test_case.test_rl_add-test_rl_add.py-[line:29]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:34]-ERROR-[日志信息]: statusCode error, expected_code is 1, statusCode is 0 
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:34]-ERROR-[日志信息]: statusCode error, expected_code is 1, statusCode is 0 
+Fri, 08 May 2020 09:43:18-test_case.test_rl_common-test_rl_common.py-[line:31]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:31]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Fri, 08 May 2020 09:43:18-common.Assert-Assert.py-[line:50]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功

@@ -1,0 +1,4 @@
+INFO     run_all_case.py:test_rl_add.py:35 开始执行脚本test_rl_add:
+
+INFO     test_rl_add:Assert.py:32 statusCode true, expected_code is 0, statusCode is 0 
+INFO     test_rl_add:Assert.py:51 Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功

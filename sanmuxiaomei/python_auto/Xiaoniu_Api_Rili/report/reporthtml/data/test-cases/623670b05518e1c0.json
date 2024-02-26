@@ -1,0 +1,80 @@
+{
+  "uid" : "623670b05518e1c0",
+  "name" : "test_dream_dreamInfoList",
+  "fullName" : "test_case.test_dream_dreamInfoList#test_dream_dreamInfoList",
+  "historyId" : "da0a061eab97b08ec5fa314a20f8ae9b",
+  "time" : {
+    "start" : 1589805310108,
+    "stop" : 1589805310128,
+    "duration" : 20
+  },
+  "description" : "测试http://calapi.51jirili.com/dream/dreamInfoList接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/dream/dreamInfoList接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/dream/dreamInfoList接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cfe06608bd5d2f2f",
+      "name" : "log",
+      "source" : "cfe06608bd5d2f2f.txt",
+      "type" : "text/plain",
+      "size" : 338
+    }, {
+      "uid" : "6a82a0d78f04cb09",
+      "name" : "stderr",
+      "source" : "6a82a0d78f04cb09.txt",
+      "type" : "text/plain",
+      "size" : 474
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_dream_dreamInfoList"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "37744-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_dream_dreamInfoList"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址\uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/dream/dreamInfoList",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "623670b05518e1c0.json",
+  "parameterValues" : [ ]
+}

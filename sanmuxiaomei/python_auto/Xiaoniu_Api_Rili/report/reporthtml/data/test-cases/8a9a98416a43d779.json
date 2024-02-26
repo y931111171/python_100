@@ -1,0 +1,80 @@
+{
+  "uid" : "8a9a98416a43d779",
+  "name" : "test_dream_hotDream",
+  "fullName" : "test_case.test_dream_hotDream#test_dream_hotDream",
+  "historyId" : "2732a4d8c80e0ada91745179de86fa3f",
+  "time" : {
+    "start" : 1590410039280,
+    "stop" : 1590410039296,
+    "duration" : 16
+  },
+  "description" : "测试http://calapi.51jirili.com/dream/hotDream?num=10接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/dream/hotDream?num=10接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/dream/hotDream?num=10接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e1368deb98325bd0",
+      "name" : "log",
+      "source" : "e1368deb98325bd0.txt",
+      "type" : "text/plain",
+      "size" : 318
+    }, {
+      "uid" : "92a589a3f1b0edca",
+      "name" : "stderr",
+      "source" : "92a589a3f1b0edca.txt",
+      "type" : "text/plain",
+      "size" : 454
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_dream_hotDream"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "39348-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_dream_hotDream"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址\uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/dream/hotDream?num=10",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a9a98416a43d779.json",
+  "parameterValues" : [ ]
+}

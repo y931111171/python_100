@@ -1,0 +1,80 @@
+{
+  "uid" : "bc677c9ea5aad88d",
+  "name" : "test_config_common",
+  "fullName" : "test_case.test_config_common#test_config_common",
+  "historyId" : "53464f97e21e75fcd0336df8988744c0",
+  "time" : {
+    "start" : 1589805310027,
+    "stop" : 1589805310060,
+    "duration" : 33
+  },
+  "description" : "测试http://calapi.51jirili.com/config/common接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/config/common接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/config/common接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a0c2fa26e9995e75",
+      "name" : "log",
+      "source" : "a0c2fa26e9995e75.txt",
+      "type" : "text/plain",
+      "size" : 314
+    }, {
+      "uid" : "fc2a1849a511de13",
+      "name" : "stderr",
+      "source" : "fc2a1849a511de13.txt",
+      "type" : "text/plain",
+      "size" : 450
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_config_common"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "37744-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_config_common"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址 \uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/config/common",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc677c9ea5aad88d.json",
+  "parameterValues" : [ ]
+}

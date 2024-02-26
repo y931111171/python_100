@@ -1,0 +1,166 @@
+Wed, 06 May 2020 18:27:48-test_case.test_operation_list-test_operation_list.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 18:27:48-test_case.test_operation_list-test_operation_list.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 18:27:48-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 18:27:48-test_case.test_rl_add-test_rl_add.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 18:27:48-test_case.test_rl_add-test_rl_add.py-[line:31]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 18:27:48-test_case.test_rl_add-test_rl_add.py-[line:37]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 18:27:48-test_case.test_rl_common-test_rl_common.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 18:27:48-test_case.test_rl_common-test_rl_common.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 18:27:48-test_case.test_rl_common-test_rl_common.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:15:38-test_case.test_rl_add-test_rl_add.py-[line:23]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:16:04-test_case.test_operation_list-test_operation_list.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:16:04-test_case.test_operation_list-test_operation_list.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:16:04-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:16:04-test_case.test_rl_add-test_rl_add.py-[line:23]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:16:04-test_case.test_rl_common-test_rl_common.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:16:04-test_case.test_rl_common-test_rl_common.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:16:04-test_case.test_rl_common-test_rl_common.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_operation_list-test_operation_list.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:19:13-test_case.test_operation_list-test_operation_list.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_rl_add-test_rl_add.py-[line:23]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:19:13-test_case.test_rl_add-test_rl_add.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_rl_add-test_rl_add.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_rl_common-test_rl_common.py-[line:21]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:19:13-test_case.test_rl_common-test_rl_common.py-[line:28]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:19:13-test_case.test_rl_common-test_rl_common.py-[line:34]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_operation_list-test_operation_list.py-[line:22]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:21:27-test_case.test_operation_list-test_operation_list.py-[line:29]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_rl_add-test_rl_add.py-[line:23]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:21:27-test_case.test_rl_add-test_rl_add.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_rl_add-test_rl_add.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_rl_common-test_rl_common.py-[line:22]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:21:27-test_case.test_rl_common-test_rl_common.py-[line:29]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:21:27-test_case.test_rl_common-test_rl_common.py-[line:35]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_operation_list-test_operation_list.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:40:57-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_operation_list-test_operation_list.py-[line:40]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_rl_add-test_rl_add.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:40:57-test_case.test_rl_add-test_rl_add.py-[line:37]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_rl_add-test_rl_add.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_rl_common-test_rl_common.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:40:57-test_case.test_rl_common-test_rl_common.py-[line:32]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:40:57-test_case.test_rl_common-test_rl_common.py-[line:38]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_operation_list-test_operation_list.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:43:06-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_operation_list-test_operation_list.py-[line:40]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_rl_add-test_rl_add.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:43:06-test_case.test_rl_add-test_rl_add.py-[line:37]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_rl_add-test_rl_add.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_rl_common-test_rl_common.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:43:06-test_case.test_rl_common-test_rl_common.py-[line:32]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:43:06-test_case.test_rl_common-test_rl_common.py-[line:38]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_operation_list-test_operation_list.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:44:56-test_case.test_operation_list-test_operation_list.py-[line:34]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_operation_list-test_operation_list.py-[line:40]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_rl_add-test_rl_add.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:44:56-test_case.test_rl_add-test_rl_add.py-[line:37]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_rl_add-test_rl_add.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_rl_common-test_rl_common.py-[line:25]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:44:56-test_case.test_rl_common-test_rl_common.py-[line:32]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:44:56-test_case.test_rl_common-test_rl_common.py-[line:38]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:48:15-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:48:15-test_case.test_rl_add-test_rl_add.py-[line:38]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_rl_add-test_rl_add.py-[line:44]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:48:15-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:48:15-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:50:20-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:50:20-test_case.test_rl_add-test_rl_add.py-[line:38]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_rl_add-test_rl_add.py-[line:44]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:50:20-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:20-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:50:46-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:50:46-test_case.test_rl_add-test_rl_add.py-[line:38]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_rl_add-test_rl_add.py-[line:44]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:50:46-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:50:46-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 19:51:37-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 19:51:37-test_case.test_rl_add-test_rl_add.py-[line:38]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_rl_add-test_rl_add.py-[line:44]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 19:51:37-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 19:51:37-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:07-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 20:00:07-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:00:07-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:07-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 20:00:07-test_case.test_rl_add-test_rl_add.py-[line:39]-INFO-[日志信息]: code状态码返回错误：0 ----> FAIL
+Wed, 06 May 2020 20:00:07-test_case.test_rl_add-test_rl_add.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:07-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 20:00:07-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:00:07-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:22-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 20:00:22-test_case.test_operation_list-test_operation_list.py-[line:35]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:00:22-test_case.test_operation_list-test_operation_list.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:22-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 20:00:22-test_case.test_rl_add-test_rl_add.py-[line:39]-INFO-[日志信息]: code状态码返回错误：0 ----> FAIL
+Wed, 06 May 2020 20:00:22-test_case.test_rl_add-test_rl_add.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:00:22-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 20:00:22-test_case.test_rl_common-test_rl_common.py-[line:33]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:00:22-test_case.test_rl_common-test_rl_common.py-[line:39]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:05:41-test_case.test_operation_list-test_operation_list.py-[line:27]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Wed, 06 May 2020 20:05:41-test_case.test_operation_list-test_operation_list.py-[line:36]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:05:41-test_case.test_operation_list-test_operation_list.py-[line:43]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS
+Wed, 06 May 2020 20:05:41-test_case.test_rl_add-test_rl_add.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Wed, 06 May 2020 20:05:41-test_case.test_rl_common-test_rl_common.py-[line:26]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Wed, 06 May 2020 20:05:41-test_case.test_rl_common-test_rl_common.py-[line:34]-INFO-[日志信息]: code状态码返回正确：0 ----> PASS
+Wed, 06 May 2020 20:05:41-test_case.test_rl_common-test_rl_common.py-[line:41]-INFO-[日志信息]: msg信息返回正确：执行成功 ----> PASS

@@ -1,0 +1,37 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 _*_
+
+# 运营配置位
+test_operation_list:
+  url: '2222222222222'
+  params: {
+    "pageCode": "calendar"
+  }
+  headers: {
+    'Content-Type': 'application/json;charset=utf-8',
+    'env': '22222222222/vwd24KZzk2BpSCVpXVILvZSsWRaIjlrhB8DRT5Hw==',
+    'group': 'MX+SWMgU4DqH+22222222222222/DbmrXmtaJUW5T6VPgZRprkXDBgiBLsKZmcEA==',
+    'platform-id': 'mtJrYxVbj/222222222222222/4wWLCRrnw7XcmXeoww6ir/tK4DSrA/CXNzoIXtAUJrPCNl7RGbA==',
+    'source': '3',
+    'osSystem': '1',
+    'bizCode': '22222222222',
+    'app-id':'',
+    'token':'',
+    'UserId': '-1',
+    'sign':'',
+    'timestamp': '1588733538309',
+    'uuid': '2222222222222222',
+    'version': '3.0.9',
+    'ua': '22222222222222222%2F3.0.9%2FDalvik%2F2.1.0+%28Linux%3B+U%3B+Android+8.1.0%3B+PBAM00+Build%2FOPM1.171019.026%29',
+    'appSign': '2222222222222',
+    'channel': '22222222',
+    'bid': '5',
+    'userActive': '22222222222',
+    'versionCode': '29',
+    'productName': '22222222222222222',
+    'oaid':'',
+    'Host': 'calapi.22222222222222222.com',
+    'Connection': 'Keep-Alive',
+    'Accept-Encoding': 'gzip',
+    'User-Agent': 'okhttp/3.11.0'
+  }

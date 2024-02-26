@@ -1,0 +1,4 @@
+Mon, 18 May 2020 20:39:15-run_all_case.py-test_rl_add.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Mon, 18 May 2020 20:39:15-test_rl_add-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Mon, 18 May 2020 20:39:15-test_rl_add-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功

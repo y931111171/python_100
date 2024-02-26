@@ -1,0 +1,80 @@
+{
+  "uid" : "737ecfc991a980ca",
+  "name" : "test_dream_categoryList",
+  "fullName" : "test_case.test_dream_categoryList#test_dream_categoryList",
+  "historyId" : "f682984631906f3e04a18d372bbba3af",
+  "time" : {
+    "start" : 1589938703665,
+    "stop" : 1589938703685,
+    "duration" : 20
+  },
+  "description" : "测试http://calapi.51jirili.com/dream/categoryList接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/dream/categoryList接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/dream/categoryList接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a5b889592028b8ac",
+      "name" : "log",
+      "source" : "a5b889592028b8ac.txt",
+      "type" : "text/plain",
+      "size" : 334
+    }, {
+      "uid" : "8cc5fade32f18011",
+      "name" : "stderr",
+      "source" : "8cc5fade32f18011.txt",
+      "type" : "text/plain",
+      "size" : 470
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_dream_categoryList"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "33952-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_dream_categoryList"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址\uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/dream/categoryList",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "737ecfc991a980ca.json",
+  "parameterValues" : [ ]
+}

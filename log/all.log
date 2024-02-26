@@ -1,0 +1,1341 @@
+
+2022-11-12 22:51:19 - DEBUG - Using selector: SelectSelector
+2022-11-12 22:51:24 - INFO - 200 GET / (192.168.43.238) 3.00ms
+2022-11-12 22:51:25 - INFO - 101 GET /?app=index&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 22:51:25 - DEBUG - WebSocket opened
+2022-11-12 22:51:25 - DEBUG - session id: O6wWJA3QyR81ntLoeGECL0QL
+2022-11-12 22:51:25 - DEBUG - WebSocket closed
+2022-11-12 22:51:26 - INFO - 200 GET /?app=Question13_app (192.168.43.238) 1.00ms
+2022-11-12 22:51:26 - INFO - 101 GET /?app=Question13_app&session=NEW (192.168.43.238) 0.00ms
+2022-11-12 22:51:26 - DEBUG - WebSocket opened
+2022-11-12 22:51:26 - DEBUG - session id: XxUmZsMa9BHeccsCsnHXpWAV
+2022-11-12 22:51:27 - DEBUG - Callback thread start
+2022-11-12 22:53:58 - DEBUG - Using selector: SelectSelector
+2022-11-12 22:54:03 - INFO - 200 GET / (192.168.43.238) 2.00ms
+2022-11-12 22:54:03 - INFO - 101 GET /?app=index&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 22:54:03 - DEBUG - WebSocket opened
+2022-11-12 22:54:03 - DEBUG - session id: zzspv9h43H9SmN4Qfl4jWscW
+2022-11-12 22:54:03 - DEBUG - WebSocket closed
+2022-11-12 22:54:04 - INFO - 200 GET /?app=Question13_app (192.168.43.238) 0.00ms
+2022-11-12 22:54:05 - INFO - 101 GET /?app=Question13_app&session=NEW (192.168.43.238) 0.00ms
+2022-11-12 22:54:05 - DEBUG - WebSocket opened
+2022-11-12 22:54:05 - DEBUG - session id: rJX4Wl5Ljr3T8IBS0wiTicNi
+2022-11-12 22:54:05 - DEBUG - Callback thread start
+2022-11-12 23:19:52 - DEBUG - Using selector: SelectSelector
+2022-11-12 23:20:08 - INFO - 200 GET / (192.168.43.238) 2.00ms
+2022-11-12 23:20:08 - INFO - 101 GET /?app=index&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 23:20:08 - DEBUG - WebSocket opened
+2022-11-12 23:20:08 - DEBUG - session id: dtzagRKfom6lhRyCEIoWpJE6
+2022-11-12 23:20:08 - DEBUG - WebSocket closed
+2022-11-12 23:20:13 - INFO - 200 GET /?app=Question11_app (192.168.43.238) 1.04ms
+2022-11-12 23:20:13 - INFO - 101 GET /?app=Question11_app&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 23:20:13 - DEBUG - WebSocket opened
+2022-11-12 23:20:13 - DEBUG - session id: RNRT1kwTNH5KMAmnJpYTYyFR
+2022-11-12 23:20:13 - DEBUG - Callback thread start
+2022-11-12 23:22:37 - DEBUG - WebSocket closed
+2022-11-12 23:22:37 - DEBUG - Callback thread exit
+2022-11-12 23:22:37 - INFO - 101 GET /?app=index&session=NEW (192.168.43.238) 0.00ms
+2022-11-12 23:22:37 - DEBUG - WebSocket opened
+2022-11-12 23:22:37 - DEBUG - session id: B9pTX264VvFFg1D8W5p8K0gW
+2022-11-12 23:22:37 - DEBUG - WebSocket closed
+2022-11-12 23:22:42 - INFO - 304 GET /?app=Question11_app (192.168.43.238) 0.00ms
+2022-11-12 23:22:42 - INFO - 101 GET /?app=Question11_app&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 23:22:42 - DEBUG - WebSocket opened
+2022-11-12 23:22:42 - DEBUG - session id: QZP7lbyLUnvp0rMsLFaxsTIT
+2022-11-12 23:22:42 - DEBUG - Callback thread start
+2022-11-12 23:22:47 - DEBUG - WebSocket closed
+2022-11-12 23:22:47 - DEBUG - Callback thread exit
+2022-11-12 23:22:47 - INFO - 101 GET /?app=index&session=NEW (192.168.43.238) 1.00ms
+2022-11-12 23:22:47 - DEBUG - WebSocket opened
+2022-11-12 23:22:47 - DEBUG - session id: 2rYt4hWhzYUB4FuVMS87DOKB
+2022-11-12 23:22:47 - DEBUG - WebSocket closed
+2022-12-12 09:32:51 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:32:56 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 09:33:19 - INFO - 304 GET / (192.168.0.102) 0.97ms
+2022-12-12 09:33:33 - INFO - 304 GET / (192.168.0.102) 1.95ms
+2022-12-12 09:35:27 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:35:39 - INFO - 200 GET / (192.168.0.102) 9.73ms
+2022-12-12 09:35:46 - INFO - 200 GET / (192.168.0.102) 0.97ms
+2022-12-12 09:35:49 - WARNING - 404 GET /favicon.ico (192.168.0.102) 1.95ms
+2022-12-12 09:35:49 - INFO - 304 GET / (192.168.0.102) 0.97ms
+2022-12-12 09:36:07 - INFO - 200 GET / (192.168.0.102) 0.97ms
+2022-12-12 09:37:14 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:37:17 - INFO - 200 GET / (192.168.0.102) 3.89ms
+2022-12-12 09:37:23 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.00ms
+2022-12-12 09:37:23 - DEBUG - WebSocket opened
+2022-12-12 09:37:23 - DEBUG - session id: KYXtUTYgjgZRwu8pKgJP8yPT
+2022-12-12 09:37:23 - DEBUG - WebSocket closed
+2022-12-12 09:37:46 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:38:05 - INFO - 200 GET / (192.168.0.102) 1.95ms
+2022-12-12 09:38:05 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.00ms
+2022-12-12 09:38:05 - DEBUG - WebSocket opened
+2022-12-12 09:38:05 - DEBUG - session id: G1ynxFrt78aG7Wj3aamjmUuC
+2022-12-12 09:38:05 - DEBUG - WebSocket closed
+2022-12-12 09:41:12 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:42:44 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:42:51 - INFO - 200 GET / (192.168.0.102) 1.95ms
+2022-12-12 09:42:51 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:42:51 - DEBUG - WebSocket opened
+2022-12-12 09:42:51 - DEBUG - session id: TizvAIRREs9wxcxczxaw29xv
+2022-12-12 09:42:51 - DEBUG - WebSocket closed
+2022-12-12 09:43:00 - INFO - 200 GET /?app=Question14_app (192.168.0.102) 1.01ms
+2022-12-12 09:43:00 - INFO - 101 GET /?app=Question14_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:43:00 - DEBUG - WebSocket opened
+2022-12-12 09:43:00 - DEBUG - session id: srUN8sX9yoMLfQ9nzh8KYnR2
+2022-12-12 09:43:00 - DEBUG - Callback thread start
+2022-12-12 09:44:41 - DEBUG - WebSocket closed
+2022-12-12 09:44:41 - DEBUG - Callback thread exit
+2022-12-12 09:44:41 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:44:41 - DEBUG - WebSocket opened
+2022-12-12 09:44:41 - DEBUG - session id: gJxEojTw76Pb0kozQXmZaORL
+2022-12-12 09:44:41 - DEBUG - WebSocket closed
+2022-12-12 09:44:43 - INFO - 304 GET /?app=Question14_app (192.168.0.102) 0.97ms
+2022-12-12 09:44:43 - INFO - 101 GET /?app=Question14_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:44:43 - DEBUG - WebSocket opened
+2022-12-12 09:44:43 - DEBUG - session id: w8SmCtHlWvUi459zUvbddMJ4
+2022-12-12 09:44:43 - DEBUG - Callback thread start
+2022-12-12 09:45:12 - DEBUG - Using selector: SelectSelector
+2022-12-12 09:45:16 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 09:45:16 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:45:16 - DEBUG - WebSocket opened
+2022-12-12 09:45:16 - DEBUG - session id: QIiGurAKadZiNNDxsozqPTP0
+2022-12-12 09:45:16 - DEBUG - WebSocket closed
+2022-12-12 09:45:18 - INFO - 200 GET /?app=Question14_app (192.168.0.102) 0.97ms
+2022-12-12 09:45:18 - INFO - 101 GET /?app=Question14_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 09:45:18 - DEBUG - WebSocket opened
+2022-12-12 09:45:18 - DEBUG - session id: MgkMR06UOXSMFs4Oi6bh6Sw6
+2022-12-12 09:45:18 - DEBUG - Callback thread start
+2022-12-12 09:49:40 - DEBUG - WebSocket closed
+2022-12-12 09:49:40 - DEBUG - Callback thread exit
+2022-12-12 11:26:03 - DEBUG - Using selector: SelectSelector
+2022-12-12 11:26:09 - INFO - 200 GET / (192.168.0.102) 1.95ms
+2022-12-12 11:26:10 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 11:26:10 - DEBUG - WebSocket opened
+2022-12-12 11:26:10 - DEBUG - session id: LmPSSI4bJZaXpaFNzDeNVBMn
+2022-12-12 11:26:10 - DEBUG - WebSocket closed
+2022-12-12 11:26:43 - DEBUG - Using selector: SelectSelector
+2022-12-12 11:26:48 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 11:26:49 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 11:26:49 - DEBUG - WebSocket opened
+2022-12-12 11:26:49 - DEBUG - session id: nfP2YaeSlrcUW1yohBnSk7UF
+2022-12-12 11:26:49 - DEBUG - WebSocket closed
+2022-12-12 11:27:30 - DEBUG - Using selector: SelectSelector
+2022-12-12 11:27:42 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 11:27:43 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 11:27:43 - DEBUG - WebSocket opened
+2022-12-12 11:27:43 - DEBUG - session id: 6jRDbz2n0xL0WBU2xyl1IE7s
+2022-12-12 11:27:43 - DEBUG - WebSocket closed
+2022-12-12 11:28:52 - DEBUG - Using selector: SelectSelector
+2022-12-12 11:28:57 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 11:28:57 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 1.95ms
+2022-12-12 11:28:57 - DEBUG - WebSocket opened
+2022-12-12 11:28:57 - DEBUG - session id: QhDfgYWb9Q78xiex7Krb3hmA
+2022-12-12 11:28:57 - DEBUG - WebSocket closed
+2022-12-12 11:28:59 - INFO - 200 GET /?app=Question15_app (192.168.0.102) 0.00ms
+2022-12-12 11:28:59 - INFO - 101 GET /?app=Question15_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 11:28:59 - DEBUG - WebSocket opened
+2022-12-12 11:28:59 - DEBUG - session id: lm6UnYOQDqqlEZgD2F5xz4sI
+2022-12-12 11:28:59 - DEBUG - Callback thread start
+2022-12-12 15:37:35 - DEBUG - Using selector: SelectSelector
+2022-12-12 15:37:40 - INFO - 200 GET / (192.168.0.102) 4.87ms
+2022-12-12 15:37:41 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 15:37:41 - DEBUG - WebSocket opened
+2022-12-12 15:37:41 - DEBUG - session id: GeGT68WV6j5CrWu1YKna9PRS
+2022-12-12 15:37:41 - DEBUG - WebSocket closed
+2022-12-12 15:37:42 - INFO - 200 GET /?app=Question16_app (192.168.0.102) 0.98ms
+2022-12-12 15:37:43 - INFO - 101 GET /?app=Question16_app&session=NEW (192.168.0.102) 0.98ms
+2022-12-12 15:37:43 - DEBUG - WebSocket opened
+2022-12-12 15:37:43 - DEBUG - session id: PxHEVeMFAHaqLdMGWRwaYEud
+2022-12-12 15:37:43 - DEBUG - Callback thread start
+2022-12-12 15:37:50 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 198, in <lambda>
+    pin.pin16_year,pin.pin16_month,pin.pin16_day
+  File "d:\Github\python_100\question\Question_16.py", line 42, in Question_16
+    put_text(datetime.date(Q16_YEAR,Q16_month,Q16_day))  #2333-03-03
+TypeError: an integer is required (got type str)
+2022-12-12 15:37:52 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 198, in <lambda>
+    pin.pin16_year,pin.pin16_month,pin.pin16_day
+  File "d:\Github\python_100\question\Question_16.py", line 42, in Question_16
+    put_text(datetime.date(Q16_YEAR,Q16_month,Q16_day))  #2333-03-03
+TypeError: an integer is required (got type str)
+2022-12-12 15:38:12 - DEBUG - WebSocket closed
+2022-12-12 15:38:12 - DEBUG - Callback thread exit
+2022-12-12 15:38:25 - DEBUG - Using selector: SelectSelector
+2022-12-12 15:39:03 - INFO - 200 GET / (192.168.0.102) 1.95ms
+2022-12-12 15:39:03 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 15:39:03 - DEBUG - WebSocket opened
+2022-12-12 15:39:03 - DEBUG - session id: YR1Qsnhko90uRHymQPnbRvAa
+2022-12-12 15:39:03 - DEBUG - WebSocket closed
+2022-12-12 15:39:05 - INFO - 200 GET /?app=Question16_app (192.168.0.102) 0.97ms
+2022-12-12 15:39:05 - INFO - 101 GET /?app=Question16_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 15:39:05 - DEBUG - WebSocket opened
+2022-12-12 15:39:05 - DEBUG - session id: Y6wn8DsgGgrKo4YoRp3PQMaX
+2022-12-12 15:39:05 - DEBUG - Callback thread start
+2022-12-12 16:30:00 - DEBUG - Using selector: SelectSelector
+2022-12-12 16:30:06 - INFO - 200 GET / (192.168.0.102) 1.95ms
+2022-12-12 16:30:06 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 16:30:06 - DEBUG - WebSocket opened
+2022-12-12 16:30:06 - DEBUG - session id: 88BR3tQQ8yDIegMHJOlJSZAb
+2022-12-12 16:30:06 - DEBUG - WebSocket closed
+2022-12-12 16:30:17 - INFO - 200 GET /?app=Question17_app (192.168.0.102) 0.00ms
+2022-12-12 16:30:17 - INFO - 101 GET /?app=Question17_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 16:30:17 - DEBUG - WebSocket opened
+2022-12-12 16:30:17 - DEBUG - session id: eWmjSGCzWKD08T9Eimf7AMNe
+2022-12-12 16:30:17 - DEBUG - WebSocket closed
+2022-12-12 16:30:18 - INFO - 304 GET /?app=Question17_app (192.168.0.102) 0.97ms
+2022-12-12 16:30:19 - INFO - 101 GET /?app=Question17_app&session=NEW (192.168.0.102) 0.00ms
+2022-12-12 16:30:19 - DEBUG - WebSocket opened
+2022-12-12 16:30:19 - DEBUG - session id: iDh4uljAuenNuRxZWzUaHOOh
+2022-12-12 16:30:19 - DEBUG - WebSocket closed
+2022-12-12 16:30:19 - INFO - 304 GET /?app=Question17_app (192.168.0.102) 1.01ms
+2022-12-12 16:30:20 - INFO - 101 GET /?app=Question17_app&session=NEW (192.168.0.102) 0.98ms
+2022-12-12 16:30:20 - DEBUG - WebSocket opened
+2022-12-12 16:30:20 - DEBUG - session id: pLF07sjy3lV3VHhrYeXrPVUj
+2022-12-12 16:30:20 - DEBUG - WebSocket closed
+2022-12-12 16:31:16 - DEBUG - Using selector: SelectSelector
+2022-12-12 16:31:19 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 16:31:19 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 16:31:19 - DEBUG - WebSocket opened
+2022-12-12 16:31:19 - DEBUG - session id: 36Hb1xX9QRyQAgwC7UMNYAt2
+2022-12-12 16:31:19 - DEBUG - WebSocket closed
+2022-12-12 16:31:21 - INFO - 200 GET /?app=Question17_app (192.168.0.102) 1.95ms
+2022-12-12 16:31:21 - INFO - 101 GET /?app=Question17_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 16:31:21 - DEBUG - WebSocket opened
+2022-12-12 16:31:21 - DEBUG - session id: ZLinNMl93VMLAwhsle3cwESW
+2022-12-12 16:31:21 - DEBUG - Callback thread start
+2022-12-12 16:32:12 - DEBUG - WebSocket closed
+2022-12-12 16:32:12 - DEBUG - Callback thread exit
+2022-12-12 16:32:13 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 1.95ms
+2022-12-12 16:32:13 - DEBUG - WebSocket opened
+2022-12-12 16:32:13 - DEBUG - session id: 4fcwhz5H93xA4c1FmXrSLUJb
+2022-12-12 16:32:13 - DEBUG - WebSocket closed
+2022-12-12 16:32:43 - INFO - 200 GET /?app=Question12_app (192.168.0.102) 0.98ms
+2022-12-12 16:32:43 - INFO - 101 GET /?app=Question12_app&session=NEW (192.168.0.102) 2.93ms
+2022-12-12 16:32:43 - DEBUG - WebSocket opened
+2022-12-12 16:32:43 - DEBUG - session id: zVByycQwJNU9cej7RRnCjuUD
+2022-12-12 16:32:44 - DEBUG - Callback thread start
+2022-12-12 16:33:01 - DEBUG - WebSocket closed
+2022-12-12 16:33:01 - DEBUG - Callback thread exit
+2022-12-12 17:16:27 - DEBUG - Using selector: SelectSelector
+2022-12-12 17:17:32 - INFO - 200 GET / (192.168.0.102) 3.89ms
+2022-12-12 17:17:33 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 17:17:33 - DEBUG - WebSocket opened
+2022-12-12 17:17:33 - DEBUG - session id: IsGglvbuUCXJ7C0C85byeLBC
+2022-12-12 17:17:33 - DEBUG - WebSocket closed
+2022-12-12 17:18:45 - INFO - 200 GET /?app=Question18_app (192.168.0.102) 0.97ms
+2022-12-12 17:18:46 - INFO - 101 GET /?app=Question18_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 17:18:46 - DEBUG - WebSocket opened
+2022-12-12 17:18:46 - DEBUG - session id: UReoAMkfmUluNiYlssJO6ivU
+2022-12-12 17:18:46 - DEBUG - Callback thread start
+2022-12-12 17:21:04 - DEBUG - WebSocket closed
+2022-12-12 17:21:04 - DEBUG - Callback thread exit
+2022-12-12 17:21:05 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 17:21:05 - DEBUG - WebSocket opened
+2022-12-12 17:21:05 - DEBUG - session id: qahOBvCIvFK041U4byUkMazx
+2022-12-12 17:21:05 - DEBUG - WebSocket closed
+2022-12-12 17:22:51 - DEBUG - Using selector: SelectSelector
+2022-12-12 17:23:00 - INFO - 200 GET / (192.168.0.102) 2.92ms
+2022-12-12 17:23:00 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.98ms
+2022-12-12 17:23:00 - DEBUG - WebSocket opened
+2022-12-12 17:23:00 - DEBUG - session id: eNhImOJFauKAqG7oSlPRlWaA
+2022-12-12 17:23:00 - DEBUG - WebSocket closed
+2022-12-12 17:23:03 - INFO - 200 GET /?app=Question17_app (192.168.0.102) 0.97ms
+2022-12-12 17:23:03 - INFO - 101 GET /?app=Question17_app&session=NEW (192.168.0.102) 0.99ms
+2022-12-12 17:23:03 - DEBUG - WebSocket opened
+2022-12-12 17:23:03 - DEBUG - session id: eH1P2TatSSoSyV24usNLi0nn
+2022-12-12 17:23:03 - DEBUG - Callback thread start
+2022-12-12 17:23:05 - DEBUG - WebSocket closed
+2022-12-12 17:23:05 - DEBUG - Callback thread exit
+2022-12-12 17:23:05 - INFO - 101 GET /?app=index&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 17:23:05 - DEBUG - WebSocket opened
+2022-12-12 17:23:05 - DEBUG - session id: mHutRP3jfTuo1AXHdV2XzDOv
+2022-12-12 17:23:05 - DEBUG - WebSocket closed
+2022-12-12 17:23:06 - INFO - 200 GET /?app=Question18_app (192.168.0.102) 0.97ms
+2022-12-12 17:23:06 - INFO - 101 GET /?app=Question18_app&session=NEW (192.168.0.102) 0.97ms
+2022-12-12 17:23:06 - DEBUG - WebSocket opened
+2022-12-12 17:23:06 - DEBUG - session id: l3dxaefnrezpSacJwF6dJlkX
+2022-12-12 17:23:06 - DEBUG - Callback thread start
+2022-12-12 17:32:11 - DEBUG - WebSocket closed
+2022-12-12 17:32:11 - DEBUG - Callback thread exit
+2022-12-13 10:20:23 - DEBUG - Using selector: SelectSelector
+2022-12-13 10:20:28 - INFO - 200 GET / (192.168.0.101) 6.81ms
+2022-12-13 10:20:28 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 1.95ms
+2022-12-13 10:20:28 - DEBUG - WebSocket opened
+2022-12-13 10:20:28 - DEBUG - session id: q83WJ1kzAUst7LGXoVOW6VHW
+2022-12-13 10:20:28 - DEBUG - WebSocket closed
+2022-12-13 10:20:31 - INFO - 200 GET /?app=Question19_app (192.168.0.101) 0.00ms
+2022-12-13 10:20:31 - INFO - 101 GET /?app=Question19_app&session=NEW (192.168.0.101) 0.98ms
+2022-12-13 10:20:31 - DEBUG - WebSocket opened
+2022-12-13 10:20:31 - DEBUG - session id: ZO2OcaB8lW4Oq5TLyGL9zqtU
+2022-12-13 10:20:31 - DEBUG - Callback thread start
+2022-12-13 10:22:55 - DEBUG - WebSocket closed
+2022-12-13 10:22:55 - DEBUG - Callback thread exit
+2022-12-13 14:57:35 - DEBUG - Using selector: SelectSelector
+2022-12-13 14:57:40 - INFO - 200 GET / (192.168.0.101) 1.94ms
+2022-12-13 14:57:40 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 14:57:40 - DEBUG - WebSocket opened
+2022-12-13 14:57:40 - DEBUG - session id: TpHbCCb37ii8qm0e4r2KyDQE
+2022-12-13 14:57:40 - DEBUG - WebSocket closed
+2022-12-13 14:57:45 - INFO - 200 GET /?app=Question20_app (192.168.0.101) 0.00ms
+2022-12-13 14:57:45 - INFO - 101 GET /?app=Question20_app&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 14:57:45 - DEBUG - WebSocket opened
+2022-12-13 14:57:45 - DEBUG - session id: 6GoVJKTKtjlUrRLH5W92eXA8
+2022-12-13 14:57:45 - DEBUG - Callback thread start
+2022-12-13 14:58:00 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_11-20_html.py", line 252, in <lambda>
+    put_buttons([dict(label='求和', value='s', color='success')],lambda _: Question_19(
+NameError: name 'Question_19' is not defined
+2022-12-13 14:58:35 - DEBUG - WebSocket closed
+2022-12-13 14:58:35 - DEBUG - Callback thread exit
+2022-12-13 14:58:49 - DEBUG - Using selector: SelectSelector
+2022-12-13 14:58:57 - INFO - 200 GET / (192.168.0.101) 1.95ms
+2022-12-13 14:58:58 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 14:58:58 - DEBUG - WebSocket opened
+2022-12-13 14:58:58 - DEBUG - session id: i8S2C0Ge45CdDItq7pzmrYvT
+2022-12-13 14:58:58 - DEBUG - WebSocket closed
+2022-12-13 14:59:00 - INFO - 200 GET /?app=Question20_app (192.168.0.101) 1.00ms
+2022-12-13 14:59:00 - INFO - 101 GET /?app=Question20_app&session=NEW (192.168.0.101) 0.00ms
+2022-12-13 14:59:00 - DEBUG - WebSocket opened
+2022-12-13 14:59:00 - DEBUG - session id: y2KCeJLerUIHl7pCEL3meWui
+2022-12-13 14:59:00 - DEBUG - Callback thread start
+2022-12-13 14:59:24 - DEBUG - WebSocket closed
+2022-12-13 14:59:24 - DEBUG - Callback thread exit
+2022-12-13 14:59:37 - DEBUG - Using selector: SelectSelector
+2022-12-13 14:59:42 - INFO - 200 GET / (192.168.0.101) 2.92ms
+2022-12-13 14:59:42 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 14:59:42 - DEBUG - WebSocket opened
+2022-12-13 14:59:42 - DEBUG - session id: BHl8eBPFGY7r9ukzAe7qddFE
+2022-12-13 14:59:42 - DEBUG - WebSocket closed
+2022-12-13 14:59:43 - INFO - 200 GET /?app=Question20_app (192.168.0.101) 0.93ms
+2022-12-13 14:59:43 - INFO - 101 GET /?app=Question20_app&session=NEW (192.168.0.101) 0.00ms
+2022-12-13 14:59:43 - DEBUG - WebSocket opened
+2022-12-13 14:59:43 - DEBUG - session id: aMoiUF15b5efBJrkFy0LHir1
+2022-12-13 14:59:43 - DEBUG - Callback thread start
+2022-12-13 15:01:24 - DEBUG - WebSocket closed
+2022-12-13 15:01:24 - DEBUG - Callback thread exit
+2022-12-13 15:01:48 - DEBUG - Using selector: SelectSelector
+2022-12-13 15:01:54 - INFO - 200 GET / (192.168.0.101) 1.95ms
+2022-12-13 15:01:54 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:01:54 - DEBUG - WebSocket opened
+2022-12-13 15:01:54 - DEBUG - session id: gcibaVm3mveQX8Z8U0QJwPJr
+2022-12-13 15:01:54 - DEBUG - WebSocket closed
+2022-12-13 15:01:56 - INFO - 200 GET /?app=Question20_app (192.168.0.101) 0.94ms
+2022-12-13 15:01:56 - INFO - 101 GET /?app=Question20_app&session=NEW (192.168.0.101) 0.00ms
+2022-12-13 15:01:56 - DEBUG - WebSocket opened
+2022-12-13 15:01:56 - DEBUG - session id: n02r16N7fPf9HGmDxrzI32rg
+2022-12-13 15:01:56 - DEBUG - Callback thread start
+2022-12-13 15:55:24 - DEBUG - Using selector: SelectSelector
+2022-12-13 15:55:29 - INFO - 200 GET / (192.168.0.101) 1.95ms
+2022-12-13 15:55:30 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 1.95ms
+2022-12-13 15:55:30 - DEBUG - WebSocket opened
+2022-12-13 15:55:30 - DEBUG - session id: mkmRziaAfDUE3wZY94iO0WuR
+2022-12-13 15:55:30 - DEBUG - WebSocket closed
+2022-12-13 15:56:47 - DEBUG - Using selector: SelectSelector
+2022-12-13 15:56:51 - INFO - 200 GET / (192.168.0.101) 1.95ms
+2022-12-13 15:56:51 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:56:51 - DEBUG - WebSocket opened
+2022-12-13 15:56:51 - DEBUG - session id: GiwBRjgkjdcs73fttvYff5WH
+2022-12-13 15:56:51 - DEBUG - WebSocket closed
+2022-12-13 15:57:45 - DEBUG - Using selector: SelectSelector
+2022-12-13 15:57:52 - INFO - 200 GET / (192.168.0.101) 3.89ms
+2022-12-13 15:57:52 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:57:52 - DEBUG - WebSocket opened
+2022-12-13 15:57:52 - DEBUG - session id: AnX1sBbnsPz8UwaYKlA4C8Hp
+2022-12-13 15:57:52 - DEBUG - WebSocket closed
+2022-12-13 15:57:55 - INFO - 200 GET /?app=Question21_app (192.168.0.101) 0.97ms
+2022-12-13 15:57:55 - INFO - 101 GET /?app=Question21_app&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:57:55 - DEBUG - WebSocket opened
+2022-12-13 15:57:55 - DEBUG - session id: 2Q8WlepGoRPUym5Q8yRweNP9
+2022-12-13 15:57:55 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Github/python_100/python_21-30_html.py", line 124, in Question21_app
+    from question.Question_21 import Question_21
+ImportError: cannot import name 'Question_21' from 'question.Question_21' (d:\Github\python_100\question\Question_21.py)
+2022-12-13 15:57:55 - DEBUG - WebSocket closed
+2022-12-13 15:59:34 - DEBUG - Using selector: SelectSelector
+2022-12-13 15:59:39 - INFO - 200 GET / (192.168.0.101) 2.92ms
+2022-12-13 15:59:40 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:59:40 - DEBUG - WebSocket opened
+2022-12-13 15:59:40 - DEBUG - session id: OLAslSC9Bq2FS8kHfWG3Cieu
+2022-12-13 15:59:40 - DEBUG - WebSocket closed
+2022-12-13 15:59:41 - INFO - 200 GET /?app=Question21_app (192.168.0.101) 0.97ms
+2022-12-13 15:59:42 - INFO - 101 GET /?app=Question21_app&session=NEW (192.168.0.101) 0.97ms
+2022-12-13 15:59:42 - DEBUG - WebSocket opened
+2022-12-13 15:59:42 - DEBUG - session id: 8dFpa8DXclvGtb3ER5zOB5iV
+2022-12-13 15:59:42 - DEBUG - Callback thread start
+2022-12-13 16:44:22 - DEBUG - WebSocket closed
+2022-12-13 16:44:22 - DEBUG - Callback thread exit
+2022-12-14 09:20:52 - DEBUG - Using selector: SelectSelector
+2022-12-14 09:22:12 - DEBUG - Using selector: SelectSelector
+2022-12-14 09:22:19 - INFO - 200 GET / (192.168.0.101) 2.92ms
+2022-12-14 09:22:20 - INFO - 101 GET /?app=index&session=NEW (192.168.0.101) 0.97ms
+2022-12-14 09:22:20 - DEBUG - WebSocket opened
+2022-12-14 09:22:20 - DEBUG - session id: vnEd4DFmeZrSdZgSQ66pjbRZ
+2022-12-14 09:22:20 - DEBUG - WebSocket closed
+2022-12-14 09:22:21 - INFO - 200 GET /?app=Question22_app (192.168.0.101) 0.97ms
+2022-12-14 09:22:21 - INFO - 101 GET /?app=Question22_app&session=NEW (192.168.0.101) 0.97ms
+2022-12-14 09:22:21 - DEBUG - WebSocket opened
+2022-12-14 09:22:21 - DEBUG - session id: pRzJvOb6VO9RNvqr8RysblD6
+2022-12-14 09:22:21 - DEBUG - Callback thread start
+2022-12-14 09:53:48 - DEBUG - WebSocket closed
+2022-12-14 09:53:48 - DEBUG - Callback thread exit
+2023-01-17 08:43:42 - DEBUG - Using selector: SelectSelector
+2023-01-17 08:44:02 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 08:44:19 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 08:44:19 - DEBUG - WebSocket opened
+2023-01-17 08:44:19 - DEBUG - session id: 7SfVx5CU1TQvSkleFqtb0W4t
+2023-01-17 08:44:19 - DEBUG - WebSocket closed
+2023-01-17 08:44:26 - INFO - 200 GET /?app=Question22_app (192.168.43.24) 2.00ms
+2023-01-17 08:44:26 - INFO - 101 GET /?app=Question22_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 08:44:26 - DEBUG - WebSocket opened
+2023-01-17 08:44:26 - DEBUG - session id: EnT7ip9UaPFbzIQSofXM8Ahz
+2023-01-17 08:44:26 - DEBUG - Callback thread start
+2023-01-17 09:28:19 - DEBUG - Using selector: SelectSelector
+2023-01-17 09:28:24 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 09:28:24 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 2.00ms
+2023-01-17 09:28:24 - DEBUG - WebSocket opened
+2023-01-17 09:28:24 - DEBUG - session id: J0TteM9N3ShxRWR5KpFu7MCC
+2023-01-17 09:28:24 - DEBUG - WebSocket closed
+2023-01-17 09:28:26 - INFO - 200 GET /?app=Question23_app (192.168.43.24) 1.00ms
+2023-01-17 09:28:26 - INFO - 101 GET /?app=Question23_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 09:28:26 - DEBUG - WebSocket opened
+2023-01-17 09:28:26 - DEBUG - session id: EFwYRtbPS2QudQP1NI8uEgYq
+2023-01-17 09:28:26 - DEBUG - Callback thread start
+2023-01-17 09:29:25 - DEBUG - Using selector: SelectSelector
+2023-01-17 09:29:29 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 09:29:30 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 09:29:30 - DEBUG - WebSocket opened
+2023-01-17 09:29:30 - DEBUG - session id: 916JqGyAbEfHTtbhwxXYUM4R
+2023-01-17 09:29:30 - DEBUG - WebSocket closed
+2023-01-17 09:29:31 - INFO - 200 GET /?app=Question23_app (192.168.43.24) 2.00ms
+2023-01-17 09:29:31 - INFO - 101 GET /?app=Question23_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 09:29:31 - DEBUG - WebSocket opened
+2023-01-17 09:29:31 - DEBUG - session id: NSWTzsLWle5QJ5wB8hLOfZ0q
+2023-01-17 09:29:31 - DEBUG - Callback thread start
+2023-01-17 17:44:02 - DEBUG - Using selector: SelectSelector
+2023-01-17 17:44:06 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 2.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 589.03ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 4.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 6.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 15.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 14.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 18.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 27.97ms
+2023-01-17 17:45:02 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 4.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 15.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 21.98ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 25.98ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 35.96ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 42.96ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 4.00ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 8.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 12.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/require.min.js (21.5.103.45) 14.99ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 18.98ms
+2023-01-17 17:45:02 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 29.97ms
+2023-01-17 17:45:03 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 17:45:03 - DEBUG - WebSocket opened
+2023-01-17 17:45:03 - DEBUG - session id: hP1lBEeL2vBIpeoFobr2uiY3
+2023-01-17 17:45:03 - DEBUG - WebSocket closed
+2023-01-17 17:48:58 - INFO - 200 GET /?_pywebio_cdn=false&app=Question24_app (21.5.103.45) 1.00ms
+2023-01-17 17:48:58 - INFO - 101 GET /?app=Question24_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 17:48:58 - DEBUG - WebSocket opened
+2023-01-17 17:48:58 - DEBUG - session id: cwV6i3k9HqfXbej32j4ky0OL
+2023-01-17 17:48:58 - DEBUG - Callback thread start
+2023-01-17 18:34:50 - DEBUG - Using selector: SelectSelector
+2023-01-17 18:34:55 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-17 18:35:50 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 3.00ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 633.80ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 6.99ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 9.00ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 10.99ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 13.99ms
+2023-01-17 18:35:51 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 15.99ms
+2023-01-17 18:36:13 - DEBUG - Using selector: SelectSelector
+2023-01-17 18:36:19 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-17 18:36:55 - INFO - 304 GET / (21.5.103.45) 1.00ms
+2023-01-17 18:37:18 - WARNING - 404 GET /favicon.ico (21.5.103.45) 1.00ms
+2023-01-17 18:37:19 - INFO - 200 GET / (21.5.103.45) 1.00ms
+2023-01-17 18:37:32 - WARNING - 404 GET /favicon.ico (21.5.103.45) 1.00ms
+2023-01-17 18:37:32 - WARNING - 404 GET /favicon.ico (21.5.103.45) 1.00ms
+2023-01-17 18:37:41 - INFO - 304 GET / (21.5.103.45) 5.99ms
+2023-01-17 18:38:33 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 1.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 684.61ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 2.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 8.99ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 6.99ms
+2023-01-17 18:38:33 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 9.99ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:33 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:38:34 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:38:34 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 3.00ms
+2023-01-17 18:38:34 - INFO - 200 GET /js/require.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:38:34 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:38:34 - DEBUG - WebSocket opened
+2023-01-17 18:38:34 - DEBUG - session id: 8Wml3QgCOIId2fBkpfszdmcX
+2023-01-17 18:38:34 - DEBUG - WebSocket closed
+2023-01-17 18:38:37 - INFO - 200 GET /?_pywebio_cdn=false&app=Question25_app (21.5.103.45) 2.00ms
+2023-01-17 18:38:38 - INFO - 101 GET /?app=Question25_app&session=NEW (21.5.103.45) 0.00ms
+2023-01-17 18:38:38 - DEBUG - WebSocket opened
+2023-01-17 18:38:38 - DEBUG - session id: PYcixNUcFZLj9nW0bpET3osn
+2023-01-17 18:38:38 - DEBUG - Callback thread start
+2023-01-17 18:41:48 - DEBUG - WebSocket closed
+2023-01-17 18:41:48 - DEBUG - Callback thread exit
+2023-01-17 18:45:03 - DEBUG - Using selector: SelectSelector
+2023-01-17 18:45:07 - INFO - 200 GET / (21.5.103.45) 3.00ms
+2023-01-17 18:46:02 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 3.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 580.33ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 4.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 6.99ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 5.23ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 4.91ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 5.43ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 4.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 8.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 3.47ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 4.28ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 2.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 4.00ms
+2023-01-17 18:46:03 - INFO - 200 GET /js/require.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:46:03 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:46:03 - DEBUG - WebSocket opened
+2023-01-17 18:46:03 - DEBUG - session id: 0IyIzomKG9k8hEnnrgz0UCK6
+2023-01-17 18:46:03 - DEBUG - WebSocket closed
+2023-01-17 18:46:07 - INFO - 200 GET /?_pywebio_cdn=false&app=Question25_app (21.5.103.45) 1.99ms
+2023-01-17 18:46:07 - INFO - 101 GET /?app=Question25_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:46:07 - DEBUG - WebSocket opened
+2023-01-17 18:46:07 - DEBUG - session id: ZYPfaJVg1qVuy4m9YeHIatPD
+2023-01-17 18:46:07 - DEBUG - Callback thread start
+2023-01-17 18:46:10 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 178, in <lambda>
+    pin.pin25_num
+  File "d:\Git\python_100\question\Question_25.py", line 46, in Question_25
+    sum_txt= sum_txt[0,-1]
+TypeError: string indices must be integers
+2023-01-17 18:47:03 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 178, in <lambda>
+    pin.pin25_num
+  File "d:\Git\python_100\question\Question_25.py", line 46, in Question_25
+    sum_txt= sum_txt[0:-1]
+TypeError: string indices must be integers
+2023-01-17 18:47:17 - DEBUG - Using selector: SelectSelector
+2023-01-17 18:47:20 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-17 18:48:15 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 3.99ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 596.28ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.00ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 11.99ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 16.98ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 28.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 32.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 36.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 11.99ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 17.98ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 19.98ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 28.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 34.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 33.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 4.00ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 8.99ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 11.99ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 18.98ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 29.97ms
+2023-01-17 18:48:16 - INFO - 200 GET /js/require.min.js (21.5.103.45) 3.00ms
+2023-01-17 18:48:16 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:48:16 - DEBUG - WebSocket opened
+2023-01-17 18:48:16 - DEBUG - session id: WgR3A58aSpa2rXYZ0N4TVnTP
+2023-01-17 18:48:16 - DEBUG - WebSocket closed
+2023-01-17 18:48:18 - INFO - 200 GET /?_pywebio_cdn=false&app=Question25_app (21.5.103.45) 1.00ms
+2023-01-17 18:48:18 - INFO - 101 GET /?app=Question25_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:48:18 - DEBUG - WebSocket opened
+2023-01-17 18:48:18 - DEBUG - session id: GyrpkAMLunZKmqftQ5KW2Rth
+2023-01-17 18:48:18 - DEBUG - Callback thread start
+2023-01-17 18:49:07 - DEBUG - Using selector: SelectSelector
+2023-01-17 18:49:12 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-17 18:50:07 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 2.00ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 567.06ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 2.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 7.00ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 18.98ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 25.98ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 32.97ms
+2023-01-17 18:50:08 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.00ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 6.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 13.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 19.98ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 23.98ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 29.97ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 6.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 6.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 14.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 23.98ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 27.97ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 31.97ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 5.99ms
+2023-01-17 18:50:08 - INFO - 200 GET /js/require.min.js (21.5.103.45) 5.99ms
+2023-01-17 18:50:08 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-17 18:50:08 - DEBUG - WebSocket opened
+2023-01-17 18:50:08 - DEBUG - session id: nOquDJyQlH889remhmynMNP2
+2023-01-17 18:50:08 - DEBUG - WebSocket closed
+2023-01-17 18:50:10 - INFO - 200 GET /?_pywebio_cdn=false&app=Question25_app (21.5.103.45) 2.00ms
+2023-01-17 18:50:10 - INFO - 101 GET /?app=Question25_app&session=NEW (21.5.103.45) 2.00ms
+2023-01-17 18:50:10 - DEBUG - WebSocket opened
+2023-01-17 18:50:10 - DEBUG - session id: r14OA3ravXualsjBhtA2sB8n
+2023-01-17 18:50:10 - DEBUG - Callback thread start
+2023-01-17 19:15:44 - DEBUG - Using selector: SelectSelector
+2023-01-17 19:15:48 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 19:15:48 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 19:15:48 - DEBUG - WebSocket opened
+2023-01-17 19:15:48 - DEBUG - session id: wFJYired2w1bpaxNfhF93fwm
+2023-01-17 19:15:49 - DEBUG - WebSocket closed
+2023-01-17 19:16:34 - DEBUG - Using selector: SelectSelector
+2023-01-17 19:16:38 - INFO - 200 GET / (192.168.43.24) 9.99ms
+2023-01-17 19:16:40 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 3.99ms
+2023-01-17 19:16:40 - DEBUG - WebSocket opened
+2023-01-17 19:16:40 - DEBUG - session id: NssKQZwa38KpmQD94xWpU68L
+2023-01-17 19:16:40 - DEBUG - WebSocket closed
+2023-01-17 19:16:42 - INFO - 200 GET /?app=Question25_app (192.168.43.24) 4.00ms
+2023-01-17 19:16:42 - INFO - 101 GET /?app=Question25_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 19:16:42 - DEBUG - WebSocket opened
+2023-01-17 19:16:42 - DEBUG - session id: zdl05poncK57o6p1w9D2ERCi
+2023-01-17 19:16:42 - DEBUG - Callback thread start
+2023-01-17 20:05:58 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:06:03 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 20:06:03 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:06:03 - DEBUG - WebSocket opened
+2023-01-17 20:06:03 - DEBUG - session id: 9NfNzuCry0qwfSyQTvtXOeYf
+2023-01-17 20:06:03 - DEBUG - WebSocket closed
+2023-01-17 20:06:06 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:06:06 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 0.99ms
+2023-01-17 20:06:06 - DEBUG - WebSocket opened
+2023-01-17 20:06:06 - DEBUG - session id: y2oNrTPwHAlsNTugMxu92lCQ
+2023-01-17 20:06:06 - DEBUG - WebSocket closed
+2023-01-17 20:06:07 - INFO - 304 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:06:07 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:06:07 - DEBUG - WebSocket opened
+2023-01-17 20:06:07 - DEBUG - session id: SWUHfFjgVInikO6LRtz7F328
+2023-01-17 20:06:07 - DEBUG - WebSocket closed
+2023-01-17 20:07:11 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:07:17 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 20:07:17 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:07:17 - DEBUG - WebSocket opened
+2023-01-17 20:07:17 - DEBUG - session id: FpNDNyfnB07ENMfDZhr5WuMR
+2023-01-17 20:07:17 - DEBUG - WebSocket closed
+2023-01-17 20:07:19 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:07:19 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:07:19 - DEBUG - WebSocket opened
+2023-01-17 20:07:19 - DEBUG - session id: MLW78EbTWhQQcoqSTOOlqnIG
+2023-01-17 20:07:19 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Git/python_100/python_21-30_html.py", line 197, in Question27_app
+    from question.Question_27 import Question_276
+ImportError: cannot import name 'Question_276' from 'question.Question_27' (d:\Git\python_100\question\Question_27.py)
+2023-01-17 20:07:19 - DEBUG - WebSocket closed
+2023-01-17 20:08:15 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:08:19 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 20:08:19 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:08:19 - DEBUG - WebSocket opened
+2023-01-17 20:08:19 - DEBUG - session id: vm7kVPkufgaKU1qXYGldy72Z
+2023-01-17 20:08:19 - DEBUG - WebSocket closed
+2023-01-17 20:08:21 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:08:21 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 0.00ms
+2023-01-17 20:08:21 - DEBUG - WebSocket opened
+2023-01-17 20:08:21 - DEBUG - session id: UhvXhWctanjofkoGzcnDJaVV
+2023-01-17 20:08:21 - DEBUG - Callback thread start
+2023-01-17 20:09:52 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:09:56 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2023-01-17 20:09:56 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:09:56 - DEBUG - WebSocket opened
+2023-01-17 20:09:56 - DEBUG - session id: RrPxO8qhlKEGszuZycjOg4F1
+2023-01-17 20:09:56 - DEBUG - WebSocket closed
+2023-01-17 20:10:01 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:10:01 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:10:01 - DEBUG - WebSocket opened
+2023-01-17 20:10:01 - DEBUG - session id: U4TDd8o6m0Xm0cWxppkhmzlF
+2023-01-17 20:10:01 - DEBUG - Callback thread start
+2023-01-17 20:11:12 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:11:16 - INFO - 200 GET / (192.168.43.24) 7.99ms
+2023-01-17 20:11:18 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 4.00ms
+2023-01-17 20:11:18 - DEBUG - WebSocket opened
+2023-01-17 20:11:18 - DEBUG - session id: JJaHGdeRLfM4qEmh02LitbpG
+2023-01-17 20:11:18 - DEBUG - WebSocket closed
+2023-01-17 20:11:20 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:11:20 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:11:20 - DEBUG - WebSocket opened
+2023-01-17 20:11:20 - DEBUG - session id: NGrm6qylhklnmeTfkDr3AonG
+2023-01-17 20:11:20 - DEBUG - Callback thread start
+2023-01-17 20:12:17 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:12:25 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:12:30 - INFO - 200 GET / (192.168.43.24) 7.99ms
+2023-01-17 20:12:32 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 4.00ms
+2023-01-17 20:12:32 - DEBUG - WebSocket opened
+2023-01-17 20:12:32 - DEBUG - session id: PsrMem9nRCs0da6eu824a3OV
+2023-01-17 20:12:32 - DEBUG - WebSocket closed
+2023-01-17 20:12:34 - INFO - 200 GET /?app=Question27_app (192.168.43.24) 1.00ms
+2023-01-17 20:12:34 - INFO - 101 GET /?app=Question27_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:12:34 - DEBUG - WebSocket opened
+2023-01-17 20:12:34 - DEBUG - session id: yoBRbC4GNRqqqtdb3E0kp8Ni
+2023-01-17 20:12:34 - DEBUG - Callback thread start
+2023-01-17 20:58:19 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:58:23 - INFO - 200 GET / (192.168.43.24) 3.00ms
+2023-01-17 20:58:23 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:58:23 - DEBUG - WebSocket opened
+2023-01-17 20:58:23 - DEBUG - session id: Imz7bEw9xjYlyxN1CJzNDvpM
+2023-01-17 20:58:23 - DEBUG - WebSocket closed
+2023-01-17 20:58:26 - INFO - 200 GET /?app=Question29_app (192.168.43.24) 6.00ms
+2023-01-17 20:58:26 - INFO - 101 GET /?app=Question29_app&session=NEW (192.168.43.24) 5.99ms
+2023-01-17 20:58:26 - DEBUG - WebSocket opened
+2023-01-17 20:58:26 - DEBUG - session id: PyuMbp1Uok63Uy3Hro9OVLca
+2023-01-17 20:58:26 - DEBUG - Callback thread start
+2023-01-17 20:59:45 - DEBUG - Using selector: SelectSelector
+2023-01-17 20:59:55 - INFO - 200 GET / (192.168.43.24) 3.00ms
+2023-01-17 20:59:56 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 20:59:56 - DEBUG - WebSocket opened
+2023-01-17 20:59:56 - DEBUG - session id: BUyScRQNSphwPKAqrUsVvArO
+2023-01-17 20:59:56 - DEBUG - WebSocket closed
+2023-01-17 21:00:01 - INFO - 200 GET /?app=Question29_app (192.168.43.24) 2.00ms
+2023-01-17 21:00:01 - INFO - 101 GET /?app=Question29_app&session=NEW (192.168.43.24) 1.00ms
+2023-01-17 21:00:01 - DEBUG - WebSocket opened
+2023-01-17 21:00:01 - DEBUG - session id: AgXwGHaZx6LSVB90xbfoQucF
+2023-01-17 21:00:01 - DEBUG - Callback thread start
+2023-01-18 10:41:53 - DEBUG - Using selector: SelectSelector
+2023-01-18 10:41:58 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 10:42:42 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 1.00ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 851.94ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 3.00ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 2.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 6.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 10.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 15.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 20.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 27.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 5.00ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 13.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 17.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 25.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 37.97ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 36.96ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 8.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 14.99ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 18.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 23.98ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 28.97ms
+2023-01-18 10:42:43 - INFO - 200 GET /js/require.min.js (21.5.103.45) 33.97ms
+2023-01-18 10:42:43 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:42:43 - DEBUG - WebSocket opened
+2023-01-18 10:42:43 - DEBUG - session id: 77wfp5hyH4Q51gHMUh2JA4C4
+2023-01-18 10:42:43 - DEBUG - WebSocket closed
+2023-01-18 10:42:45 - INFO - 200 GET /?_pywebio_cdn=false&app=Question30_app (21.5.103.45) 1.00ms
+2023-01-18 10:42:45 - INFO - 101 GET /?app=Question30_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:42:45 - DEBUG - WebSocket opened
+2023-01-18 10:42:45 - DEBUG - session id: rK6jyqi1zXpEreNqCUoKjeDh
+2023-01-18 10:42:45 - DEBUG - Callback thread start
+2023-01-18 10:42:59 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 42, in Question_30
+    elif len_num < 5 or len_num % 2 == 0:
+TypeError: '<' not supported between instances of 'NoneType' and 'int'
+2023-01-18 10:46:17 - DEBUG - Using selector: SelectSelector
+2023-01-18 10:46:21 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 10:47:06 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 4.00ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 537.50ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 4.00ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 9.99ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 15.99ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 19.98ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 28.98ms
+2023-01-18 10:47:06 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 34.97ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 10.00ms
+2023-01-18 10:47:06 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 15.24ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 18.98ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 29.06ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 35.66ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 42.67ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 9.30ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 11.86ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 18.93ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 2.35ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 5.01ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 18.38ms
+2023-01-18 10:47:06 - INFO - 200 GET /js/require.min.js (21.5.103.45) 2.51ms
+2023-01-18 10:47:06 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:47:06 - DEBUG - WebSocket opened
+2023-01-18 10:47:07 - DEBUG - session id: mistqVECJ3FnZ17bjzs0LlBX
+2023-01-18 10:47:07 - DEBUG - WebSocket closed
+2023-01-18 10:47:09 - INFO - 200 GET /?_pywebio_cdn=false&app=Question30_app (21.5.103.45) 1.00ms
+2023-01-18 10:47:09 - INFO - 101 GET /?app=Question30_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:47:09 - DEBUG - WebSocket opened
+2023-01-18 10:47:09 - DEBUG - session id: Xg2ZyPhfHCsJFSRVPELREMYY
+2023-01-18 10:47:09 - DEBUG - Callback thread start
+2023-01-18 10:48:34 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 42, in Question_30
+    if isit_natural(len_num) == False :
+  File "d:\Git\python_100\Q_class\Isit_number.py", line 30, in isit_natural
+    if float(s) == 0:
+TypeError: float() argument must be a string or a number, not 'NoneType'
+2023-01-18 10:52:36 - DEBUG - Using selector: SelectSelector
+2023-01-18 10:52:41 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 10:53:25 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 5.00ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 553.56ms
+2023-01-18 10:53:25 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 4.99ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 8.99ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 11.99ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 14.99ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 21.98ms
+2023-01-18 10:53:25 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 27.97ms
+2023-01-18 10:53:25 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 6.99ms
+2023-01-18 10:53:25 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 15.98ms
+2023-01-18 10:53:25 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 22.98ms
+2023-01-18 10:53:25 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 29.97ms
+2023-01-18 10:53:25 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 35.97ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 37.97ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 7.99ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 8.99ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 17.98ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 21.98ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 25.98ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/require.min.js (21.5.103.45) 3.00ms
+2023-01-18 10:53:26 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 3.00ms
+2023-01-18 10:53:26 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:53:26 - DEBUG - WebSocket opened
+2023-01-18 10:53:26 - DEBUG - session id: RQQkmzGGrGPC2oCbiU29xjle
+2023-01-18 10:53:26 - DEBUG - WebSocket closed
+2023-01-18 10:53:29 - INFO - 200 GET /?_pywebio_cdn=false&app=Question30_app (21.5.103.45) 1.00ms
+2023-01-18 10:53:29 - INFO - 101 GET /?app=Question30_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:53:29 - DEBUG - WebSocket opened
+2023-01-18 10:53:29 - DEBUG - session id: ViIoDHZS9lcI2Y6fZVCZDJQ9
+2023-01-18 10:53:29 - DEBUG - Callback thread start
+2023-01-18 10:53:47 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_21-30_html.py", line 241, in <lambda>
+    pin.pin30_num,pin.pin30_len
+  File "d:\Git\python_100\question\Question_30.py", line 38, in Question_30
+    if isit_natural(num) == False or len(num) % 2 == 0:
+TypeError: object of type 'int' has no len()
+2023-01-18 10:54:37 - DEBUG - Using selector: SelectSelector
+2023-01-18 10:54:41 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 10:55:26 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 2.00ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 551.49ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 3.00ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 8.61ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 11.60ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 18.60ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 29.59ms
+2023-01-18 10:55:26 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.00ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 8.19ms
+2023-01-18 10:55:26 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 12.58ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 25.16ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 28.16ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 35.15ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 3.99ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 10.99ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 24.98ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 28.97ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 34.97ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 35.97ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 3.00ms
+2023-01-18 10:55:26 - INFO - 200 GET /js/require.min.js (21.5.103.45) 3.71ms
+2023-01-18 10:55:27 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:55:27 - DEBUG - WebSocket opened
+2023-01-18 10:55:27 - DEBUG - session id: vDIjOtUpWmJ9dR9F1Mk7IKlL
+2023-01-18 10:55:27 - DEBUG - WebSocket closed
+2023-01-18 10:55:30 - INFO - 200 GET /?_pywebio_cdn=false&app=Question30_app (21.5.103.45) 1.00ms
+2023-01-18 10:55:30 - INFO - 101 GET /?app=Question30_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 10:55:30 - DEBUG - WebSocket opened
+2023-01-18 10:55:30 - DEBUG - session id: ync4OvjWCXGXIOa70ctJ4h7R
+2023-01-18 10:55:30 - DEBUG - Callback thread start
+2023-01-18 11:01:13 - DEBUG - WebSocket closed
+2023-01-18 11:01:13 - DEBUG - Callback thread exit
+2023-01-18 11:01:25 - DEBUG - Using selector: SelectSelector
+2023-01-18 11:01:30 - INFO - 200 GET / (21.5.103.45) 3.00ms
+2023-01-18 11:02:15 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 4.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 562.05ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 5.00ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 13.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 16.98ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 26.98ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 35.97ms
+2023-01-18 11:02:15 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 2.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 10.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 13.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 25.98ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 29.97ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 38.96ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 4.00ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 4.99ms
+2023-01-18 11:02:15 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 9.99ms
+2023-01-18 11:02:16 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 16.98ms
+2023-01-18 11:02:16 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 19.98ms
+2023-01-18 11:02:16 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 23.98ms
+2023-01-18 11:02:16 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 5.00ms
+2023-01-18 11:02:16 - INFO - 200 GET /js/require.min.js (21.5.103.45) 4.00ms
+2023-01-18 11:02:16 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 11:02:16 - DEBUG - WebSocket opened
+2023-01-18 11:02:16 - DEBUG - session id: KimHzVLsco4TZTxhzkTS064Y
+2023-01-18 11:02:16 - DEBUG - WebSocket closed
+2023-01-18 11:02:19 - INFO - 200 GET /?_pywebio_cdn=false&app=Question30_app (21.5.103.45) 1.00ms
+2023-01-18 11:02:19 - INFO - 101 GET /?app=Question30_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 11:02:19 - DEBUG - WebSocket opened
+2023-01-18 11:02:19 - DEBUG - session id: nt0T6DumW2a94yVMa2nK3Eyj
+2023-01-18 11:02:19 - DEBUG - Callback thread start
+2023-01-18 14:30:58 - DEBUG - Using selector: SelectSelector
+2023-01-18 14:31:01 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 14:31:13 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 1.00ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 596.44ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 4.00ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 6.99ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 15.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 18.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 22.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 25.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 6.00ms
+2023-01-18 14:31:14 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 12.99ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 17.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 21.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 27.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 25.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 11.99ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 15.99ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 24.98ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 29.97ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 32.97ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 29.97ms
+2023-01-18 14:31:14 - INFO - 200 GET /js/require.min.js (21.5.103.45) 15.98ms
+2023-01-18 14:31:14 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 14:31:14 - DEBUG - WebSocket opened
+2023-01-18 14:31:14 - DEBUG - session id: 3jrE29KuXR3uL7KAK4KtvKIR
+2023-01-18 14:31:14 - DEBUG - WebSocket closed
+2023-01-18 14:31:16 - INFO - 200 GET /?_pywebio_cdn=false&app=Question31_app (21.5.103.45) 2.00ms
+2023-01-18 14:31:16 - INFO - 101 GET /?app=Question31_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 14:31:16 - DEBUG - WebSocket opened
+2023-01-18 14:31:16 - DEBUG - session id: 6kLG5vZXYOKvQJ0gAabtDYBD
+2023-01-18 14:31:16 - DEBUG - Callback thread start
+2023-01-18 14:36:32 - DEBUG - Using selector: SelectSelector
+2023-01-18 14:37:48 - INFO - 200 GET / (21.5.103.45) 2.00ms
+2023-01-18 14:37:48 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 1.00ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 759.81ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 3.00ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 12.99ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 17.98ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 22.98ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 31.97ms
+2023-01-18 14:37:49 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 1.00ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 12.99ms
+2023-01-18 14:37:49 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 17.98ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 31.97ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 34.97ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 39.96ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 5.00ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 13.99ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 15.98ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 22.98ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 29.97ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 38.97ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 4.00ms
+2023-01-18 14:37:49 - INFO - 200 GET /js/require.min.js (21.5.103.45) 4.00ms
+2023-01-18 14:37:49 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 14:37:49 - DEBUG - WebSocket opened
+2023-01-18 14:37:49 - DEBUG - session id: L1j2xuFmweunxBTJuckb7Wmi
+2023-01-18 14:37:49 - DEBUG - WebSocket closed
+2023-01-18 14:37:50 - INFO - 200 GET /?_pywebio_cdn=false&app=Question31_app (21.5.103.45) 0.99ms
+2023-01-18 14:37:50 - INFO - 101 GET /?app=Question31_app&session=NEW (21.5.103.45) 1.00ms
+2023-01-18 14:37:50 - DEBUG - WebSocket opened
+2023-01-18 14:37:50 - DEBUG - session id: owC9zubI6GD8GbiZZyJ7hUqF
+2023-01-18 14:37:50 - DEBUG - Callback thread start
+2023-01-18 14:54:03 - DEBUG - Using selector: SelectSelector
+2023-01-18 14:54:06 - INFO - 200 GET / (21.5.103.45) 3.00ms
+2023-01-18 14:54:06 - INFO - 200 GET /?_pywebio_cdn=false (21.5.103.45) 1.00ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/markdown.min.css (21.5.103.45) 729.32ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/codemirror.min.css (21.5.103.45) 3.00ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/mustache.min.js (21.5.103.45) 6.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/toastify.min.css (21.5.103.45) 5.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/bs-theme/default.min.css (21.5.103.45) 12.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/bootstrap-select.min.css (21.5.103.45) 18.98ms
+2023-01-18 14:54:07 - INFO - 200 GET /css/app.css?v=1.6.3 (21.5.103.45) 24.98ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/codemirror.min.js (21.5.103.45) 7.00ms
+2023-01-18 14:54:07 - INFO - 200 GET /codemirror/addons.js (21.5.103.45) 14.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/prism.min.js (21.5.103.45) 11.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/FileSaver.min.js (21.5.103.45) 21.98ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/jquery.min.js (21.5.103.45) 34.97ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/popper.min.js (21.5.103.45) 37.96ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/bootstrap.min.js (21.5.103.45) 4.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/toastify.min.js (21.5.103.45) 11.99ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/bs-custom-file-input.min.js (21.5.103.45) 17.98ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/purify.min.js (21.5.103.45) 23.98ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/bootstrap-select.min.js (21.5.103.45) 26.97ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/pywebio.min.js?v=1.6.3 (21.5.103.45) 30.97ms
+2023-01-18 14:54:07 - INFO - 200 GET /js/require.min.js (21.5.103.45) 2.00ms
+2023-01-18 14:54:08 - INFO - 101 GET /?app=index&session=NEW (21.5.103.45) 5.99ms
+2023-01-18 14:54:08 - DEBUG - WebSocket opened
+2023-01-18 14:54:08 - DEBUG - session id: FnRH5PIm9ZjVrj33hYO5ErKD
+2023-01-18 14:54:08 - DEBUG - WebSocket closed
+2023-01-18 14:54:10 - INFO - 200 GET /?_pywebio_cdn=false&app=Question31_app (21.5.103.45) 4.00ms
+2023-01-18 14:54:10 - INFO - 101 GET /?app=Question31_app&session=NEW (21.5.103.45) 3.00ms
+2023-01-18 14:54:10 - DEBUG - WebSocket opened
+2023-01-18 14:54:10 - DEBUG - session id: vtCV0gIMBenQ3NpDHOJY8BJD
+2023-01-18 14:54:10 - DEBUG - Callback thread start
+2023-08-12 09:58:03 - DEBUG - Using selector: SelectSelector
+2023-08-12 09:58:08 - INFO - 200 GET / (192.168.31.88) 2.00ms
+2023-08-12 09:58:08 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 0.97ms
+2023-08-12 09:58:08 - DEBUG - WebSocket opened
+2023-08-12 09:58:08 - DEBUG - session id: n5DIHx2JmLUlnZFufSZHQVuO
+2023-08-12 09:58:08 - DEBUG - WebSocket closed
+2023-08-12 09:58:10 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 09:58:11 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 1.00ms
+2023-08-12 09:58:11 - DEBUG - WebSocket opened
+2023-08-12 09:58:11 - DEBUG - session id: aHuJ2lAxlYrQX3mkp0jCL5Xb
+2023-08-12 09:58:11 - DEBUG - Callback thread start
+2023-08-12 10:03:23 - DEBUG - WebSocket closed
+2023-08-12 10:03:23 - DEBUG - Callback thread exit
+2023-08-12 10:04:02 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:04:05 - INFO - 200 GET / (192.168.31.88) 3.00ms
+2023-08-12 10:04:06 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 0.97ms
+2023-08-12 10:04:06 - DEBUG - WebSocket opened
+2023-08-12 10:04:06 - DEBUG - session id: Pzx4XIPK12Du2jKy3OP8Vx5A
+2023-08-12 10:04:06 - DEBUG - WebSocket closed
+2023-08-12 10:04:07 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 10:04:07 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 0.00ms
+2023-08-12 10:04:07 - DEBUG - WebSocket opened
+2023-08-12 10:04:07 - DEBUG - session id: yqTrJ2jKqjyXNyiJFMLjkYLT
+2023-08-12 10:04:07 - DEBUG - Callback thread start
+2023-08-12 10:10:45 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:10:49 - INFO - 200 GET / (192.168.31.88) 3.00ms
+2023-08-12 10:10:49 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 0.00ms
+2023-08-12 10:10:49 - DEBUG - WebSocket opened
+2023-08-12 10:10:49 - DEBUG - session id: gDOAzOqUdLpHHPjJummwBB9r
+2023-08-12 10:10:49 - DEBUG - WebSocket closed
+2023-08-12 10:10:51 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 10:10:51 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 0.00ms
+2023-08-12 10:10:51 - DEBUG - WebSocket opened
+2023-08-12 10:10:51 - DEBUG - session id: YhOgjygORguf5Y1uO7giJ109
+2023-08-12 10:10:51 - DEBUG - Callback thread start
+2023-08-12 10:11:16 - DEBUG - WebSocket closed
+2023-08-12 10:11:16 - DEBUG - Callback thread exit
+2023-08-12 10:12:28 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:12:39 - INFO - 200 GET / (192.168.31.88) 4.00ms
+2023-08-12 10:12:39 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 1.00ms
+2023-08-12 10:12:39 - DEBUG - WebSocket opened
+2023-08-12 10:12:39 - DEBUG - session id: KYk0j4Nrn9I7Unf4lMCh1dSc
+2023-08-12 10:12:39 - DEBUG - WebSocket closed
+2023-08-12 10:12:41 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 10:12:41 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 0.00ms
+2023-08-12 10:12:41 - DEBUG - WebSocket opened
+2023-08-12 10:12:41 - DEBUG - session id: PrSv347wjOATMPFqW2pj5G48
+2023-08-12 10:12:41 - DEBUG - Callback thread start
+2023-08-12 10:16:14 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:16:17 - INFO - 200 GET / (192.168.31.88) 2.00ms
+2023-08-12 10:16:17 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 0.00ms
+2023-08-12 10:16:17 - DEBUG - WebSocket opened
+2023-08-12 10:16:17 - DEBUG - session id: PzUaPgMKFPSeA9OdGRxBx8Fv
+2023-08-12 10:16:17 - DEBUG - WebSocket closed
+2023-08-12 10:16:19 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 0.99ms
+2023-08-12 10:16:19 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 1.00ms
+2023-08-12 10:16:19 - DEBUG - WebSocket opened
+2023-08-12 10:16:19 - DEBUG - session id: 5Ez1agLSGjZZJhGVpIF7q0dd
+2023-08-12 10:16:19 - DEBUG - Callback thread start
+2023-08-12 10:18:56 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:18:59 - INFO - 200 GET / (192.168.31.88) 3.00ms
+2023-08-12 10:18:59 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 1.03ms
+2023-08-12 10:18:59 - DEBUG - WebSocket opened
+2023-08-12 10:18:59 - DEBUG - session id: iuj0d5iX4Ufm1RIHD8H2Dfc5
+2023-08-12 10:18:59 - DEBUG - WebSocket closed
+2023-08-12 10:19:01 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 10:19:01 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 1.00ms
+2023-08-12 10:19:01 - DEBUG - WebSocket opened
+2023-08-12 10:19:01 - DEBUG - session id: NXRXeMXsbi3URr7m5DS9YI0D
+2023-08-12 10:19:01 - DEBUG - Callback thread start
+2023-08-12 10:23:54 - DEBUG - Using selector: SelectSelector
+2023-08-12 10:23:57 - INFO - 200 GET / (192.168.31.88) 3.00ms
+2023-08-12 10:23:57 - INFO - 101 GET /?app=index&session=NEW (192.168.31.88) 1.03ms
+2023-08-12 10:23:57 - DEBUG - WebSocket opened
+2023-08-12 10:23:57 - DEBUG - session id: 7Ql8pgo7OOJDBaOsE8CoQdQg
+2023-08-12 10:23:57 - DEBUG - WebSocket closed
+2023-08-12 10:23:59 - INFO - 200 GET /?app=Question2_app (192.168.31.88) 1.00ms
+2023-08-12 10:23:59 - INFO - 101 GET /?app=Question2_app&session=NEW (192.168.31.88) 1.00ms
+2023-08-12 10:23:59 - DEBUG - WebSocket opened
+2023-08-12 10:23:59 - DEBUG - session id: 9ljNVENAHzRkMr4g7D1RFxng
+2023-08-12 10:23:59 - DEBUG - Callback thread start
+2023-08-12 10:24:01 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_1-10_html.py", line 139, in <lambda>
+    put_buttons([dict(label='计算', value='s', color='success')],lambda _: Question_02(pin.pin_name)).style('padding-top:30px')
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 1796, in wrapper
+    return func(*args, **kwargs)
+  File "d:\Github\python_100\question\Question_02.py", line 39, in Question_02
+    QLog_02=style(put_text(f'需要发放奖金{pd.money1}元',position=-1),'color:red')
+  File "C:\Python37\lib\site-packages\pandas\__init__.py", line 258, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'money1'
+2023-08-12 10:24:02 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 805, in click_callback
+    return onclick(btn_val)
+  File "d:/Github/python_100/python_1-10_html.py", line 139, in <lambda>
+    put_buttons([dict(label='计算', value='s', color='success')],lambda _: Question_02(pin.pin_name)).style('padding-top:30px')
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 1796, in wrapper
+    return func(*args, **kwargs)
+  File "d:\Github\python_100\question\Question_02.py", line 39, in Question_02
+    QLog_02=style(put_text(f'需要发放奖金{pd.money1}元',position=-1),'color:red')
+  File "C:\Python37\lib\site-packages\pandas\__init__.py", line 258, in __getattr__
+    raise AttributeError(f"module 'pandas' has no attribute '{name}'")
+AttributeError: module 'pandas' has no attribute 'money1'
+2023-08-12 10:38:31 - DEBUG - WebSocket closed
+2023-08-12 10:38:31 - DEBUG - Callback thread exit
+2024-01-23 11:39:03 - DEBUG - Using selector: SelectSelector
+2024-01-23 11:39:15 - INFO - 200 GET / (192.168.43.24) 4.00ms
+2024-01-23 11:39:17 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 0.91ms
+2024-01-23 11:39:17 - DEBUG - WebSocket opened
+2024-01-23 11:39:17 - DEBUG - session id: LuxsKa84jEqVDUu6qJ305cnl
+2024-01-23 11:39:17 - DEBUG - WebSocket closed
+2024-01-23 11:39:19 - INFO - 200 GET /?app=Question40_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:19 - INFO - 101 GET /?app=Question40_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:19 - DEBUG - WebSocket opened
+2024-01-23 11:39:19 - DEBUG - session id: spe3sj18TiHwZIvKF71lzbHw
+2024-01-23 11:39:19 - DEBUG - WebSocket closed
+2024-01-23 11:39:28 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:28 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:28 - DEBUG - WebSocket opened
+2024-01-23 11:39:28 - DEBUG - session id: ygtU8UuDTUJGoGuLRUNbaKU5
+2024-01-23 11:39:28 - DEBUG - WebSocket closed
+2024-01-23 11:39:31 - INFO - 304 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:31 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:31 - DEBUG - WebSocket opened
+2024-01-23 11:39:31 - DEBUG - session id: wTVGCWnxesyKSD9XzwDhBLHf
+2024-01-23 11:39:31 - DEBUG - WebSocket closed
+2024-01-23 11:39:33 - INFO - 200 GET /?app=Question35_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:33 - INFO - 101 GET /?app=Question35_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:33 - DEBUG - WebSocket opened
+2024-01-23 11:39:33 - DEBUG - session id: 1Hnvo9AaDxcvxuas5QV8NVAi
+2024-01-23 11:39:33 - DEBUG - WebSocket closed
+2024-01-23 11:39:34 - INFO - 200 GET /?app=Question34_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:34 - INFO - 101 GET /?app=Question34_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:34 - DEBUG - WebSocket opened
+2024-01-23 11:39:34 - DEBUG - session id: QS4UN9chVDORgGB0PkVhAMV9
+2024-01-23 11:39:34 - DEBUG - WebSocket closed
+2024-01-23 11:39:35 - INFO - 200 GET /?app=Question32_app (192.168.43.24) 1.00ms
+2024-01-23 11:39:36 - INFO - 101 GET /?app=Question32_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 11:39:36 - DEBUG - WebSocket opened
+2024-01-23 11:39:36 - DEBUG - session id: 2CVCAtRDkReWN3Yr7jKZxV5r
+2024-01-23 11:39:36 - DEBUG - Callback thread start
+2024-01-23 11:39:40 - DEBUG - WebSocket closed
+2024-01-23 11:39:40 - DEBUG - Callback thread exit
+2024-01-23 11:39:49 - INFO - 304 GET / (192.168.43.24) 1.00ms
+2024-01-23 11:39:49 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 2.00ms
+2024-01-23 11:39:49 - DEBUG - WebSocket opened
+2024-01-23 11:39:49 - DEBUG - session id: 6U72eCnr8HkcMA85XgVTgzNM
+2024-01-23 11:39:49 - DEBUG - WebSocket closed
+2024-01-23 12:16:33 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:16:37 - INFO - 200 GET / (192.168.43.24) 7.99ms
+2024-01-23 12:16:37 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:16:37 - DEBUG - WebSocket opened
+2024-01-23 12:16:37 - DEBUG - session id: w15ALnlOs6NPjaAsyTM990JQ
+2024-01-23 12:16:37 - DEBUG - WebSocket closed
+2024-01-23 12:16:40 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 2.00ms
+2024-01-23 12:16:40 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:16:40 - DEBUG - WebSocket opened
+2024-01-23 12:16:40 - DEBUG - session id: LzCb8lgtQDAZaZBXo95h3vsB
+2024-01-23 12:16:40 - DEBUG - Callback thread start
+2024-01-23 12:16:43 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:16:44 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:19:17 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:19:20 - INFO - 200 GET / (192.168.43.24) 3.00ms
+2024-01-23 12:19:21 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:19:21 - DEBUG - WebSocket opened
+2024-01-23 12:19:21 - DEBUG - session id: LXzaIq527ZhuuENstHLvyTPR
+2024-01-23 12:19:21 - DEBUG - WebSocket closed
+2024-01-23 12:19:23 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 0.00ms
+2024-01-23 12:19:23 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:19:23 - DEBUG - WebSocket opened
+2024-01-23 12:19:23 - DEBUG - session id: DdH3rhVfG5p1b52dIHtnedOw
+2024-01-23 12:19:23 - DEBUG - Callback thread start
+2024-01-23 12:19:26 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 254, in run
+    callback(event['data'])
+  File "C:\Python37\lib\site-packages\pywebio\output.py", line 809, in click_callback
+    return onclick(btn_val)
+  File "d:/Git/python_100/python_31-40_html.py", line 139, in <lambda>
+    pin.pin36_text
+  File "d:\Git\python_100\question\Question_36.py", line 51, in Question_36
+    for i in range(2,num):
+TypeError: 'str' object cannot be interpreted as an integer
+2024-01-23 12:20:33 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:20:37 - INFO - 200 GET / (192.168.43.24) 2.98ms
+2024-01-23 12:20:37 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:20:37 - DEBUG - WebSocket opened
+2024-01-23 12:20:37 - DEBUG - session id: tPf3u1xNgqGUt29ambLJrUqv
+2024-01-23 12:20:37 - DEBUG - WebSocket closed
+2024-01-23 12:20:42 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 12:20:42 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:20:42 - DEBUG - WebSocket opened
+2024-01-23 12:20:42 - DEBUG - session id: no59Mnmh3Shq5GA1EbQDq2oT
+2024-01-23 12:20:42 - ERROR - Error
+Traceback (most recent call last):
+  File "C:\Python37\lib\site-packages\pywebio\session\threadbased.py", line 86, in main_task
+    target()
+  File "d:/Git/python_100/python_31-40_html.py", line 137, in Question36_app
+    put_input('pin36_text',type=Number,label='请输入一个整数'),None,
+  File "C:\Python37\lib\site-packages\pywebio\pin.py", line 154, in put_input
+    readonly=readonly, datalist=datalist, help_text=help_text)
+  File "C:\Python37\lib\site-packages\pywebio\input.py", line 229, in input
+    assert type in allowed_type, 'Input type not allowed.'
+AssertionError: Input type not allowed.
+2024-01-23 12:20:42 - DEBUG - WebSocket closed
+2024-01-23 12:22:43 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:22:45 - INFO - 200 GET / (192.168.43.24) 3.00ms
+2024-01-23 12:22:46 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:22:46 - DEBUG - WebSocket opened
+2024-01-23 12:22:46 - DEBUG - session id: TIX3LfOL3PkikJu9YQkAl0c0
+2024-01-23 12:22:46 - DEBUG - WebSocket closed
+2024-01-23 12:22:49 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 2.00ms
+2024-01-23 12:22:49 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:22:49 - DEBUG - WebSocket opened
+2024-01-23 12:22:49 - DEBUG - session id: LB9sbwmcHpxWUTTnlMum5EVt
+2024-01-23 12:22:49 - DEBUG - Callback thread start
+2024-01-23 12:26:30 - DEBUG - WebSocket closed
+2024-01-23 12:26:30 - DEBUG - Callback thread exit
+2024-01-23 12:26:32 - INFO - 304 GET /?app=Question36_app (192.168.43.24) 2.00ms
+2024-01-23 12:26:32 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:26:32 - DEBUG - WebSocket opened
+2024-01-23 12:26:32 - DEBUG - session id: nORWnH760Gg3QaIveM8FWN90
+2024-01-23 12:26:32 - DEBUG - Callback thread start
+2024-01-23 12:27:20 - INFO - 304 GET /?app=Question36_app (192.168.43.24) 0.00ms
+2024-01-23 12:27:20 - DEBUG - WebSocket closed
+2024-01-23 12:27:20 - DEBUG - Callback thread exit
+2024-01-23 12:27:20 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:27:20 - DEBUG - WebSocket opened
+2024-01-23 12:27:20 - DEBUG - session id: DCY4p0KNiEMaFNegzVGCGmLL
+2024-01-23 12:27:20 - DEBUG - Callback thread start
+2024-01-23 12:27:29 - DEBUG - WebSocket closed
+2024-01-23 12:27:29 - DEBUG - Callback thread exit
+2024-01-23 12:27:56 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:28:00 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2024-01-23 12:28:00 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:28:00 - DEBUG - WebSocket opened
+2024-01-23 12:28:00 - DEBUG - session id: 6BpYelwGVw7hveoUL5z7VS8J
+2024-01-23 12:28:00 - DEBUG - WebSocket closed
+2024-01-23 12:28:07 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 12:28:07 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:28:07 - DEBUG - WebSocket opened
+2024-01-23 12:28:07 - DEBUG - session id: 1HniK2dtExuZooipH15Zd2vT
+2024-01-23 12:28:07 - DEBUG - Callback thread start
+2024-01-23 12:30:01 - DEBUG - WebSocket closed
+2024-01-23 12:30:01 - DEBUG - Callback thread exit
+2024-01-23 12:30:15 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:30:20 - INFO - 200 GET / (192.168.43.24) 2.00ms
+2024-01-23 12:30:20 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:30:20 - DEBUG - WebSocket opened
+2024-01-23 12:30:20 - DEBUG - session id: YJyMsfxY021ERfAmwsBqv5oP
+2024-01-23 12:30:20 - DEBUG - WebSocket closed
+2024-01-23 12:30:22 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 12:30:22 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:30:22 - DEBUG - WebSocket opened
+2024-01-23 12:30:22 - DEBUG - session id: DgHN4YIHNGzYLWxA2XvrEQuT
+2024-01-23 12:30:22 - DEBUG - Callback thread start
+2024-01-23 12:30:40 - DEBUG - WebSocket closed
+2024-01-23 12:30:40 - DEBUG - Callback thread exit
+2024-01-23 12:30:56 - DEBUG - Using selector: SelectSelector
+2024-01-23 12:31:02 - INFO - 200 GET / (192.168.43.24) 2.78ms
+2024-01-23 12:31:02 - INFO - 101 GET /?app=index&session=NEW (192.168.43.24) 1.00ms
+2024-01-23 12:31:02 - DEBUG - WebSocket opened
+2024-01-23 12:31:02 - DEBUG - session id: 5KswqwwbGgxc6XMXwid5R6tX
+2024-01-23 12:31:02 - DEBUG - WebSocket closed
+2024-01-23 12:31:04 - INFO - 200 GET /?app=Question36_app (192.168.43.24) 1.00ms
+2024-01-23 12:31:04 - INFO - 101 GET /?app=Question36_app&session=NEW (192.168.43.24) 0.00ms
+2024-01-23 12:31:04 - DEBUG - WebSocket opened
+2024-01-23 12:31:04 - DEBUG - session id: 3etDunrHHH6iJj1GnaEWoRHp
+2024-01-23 12:31:04 - DEBUG - Callback thread start
+2024-01-23 12:33:27 - DEBUG - WebSocket closed
+2024-01-23 12:33:27 - DEBUG - Callback thread exit

@@ -1,0 +1,80 @@
+{
+  "uid" : "c2deb421fe2d38be",
+  "name" : "test_operation_list",
+  "fullName" : "test_case.test_operation_list#test_operation_list",
+  "historyId" : "b0127eb0d87c8a2f6dfe3d7949c21de9",
+  "time" : {
+    "start" : 1589804599700,
+    "stop" : 1589804599717,
+    "duration" : 17
+  },
+  "description" : "测试http://calapi.51jirili.com/operation/list接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/operation/list接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/operation/list接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a62ceb16a320951b",
+      "name" : "log",
+      "source" : "a62ceb16a320951b.txt",
+      "type" : "text/plain",
+      "size" : 318
+    }, {
+      "uid" : "5609ac56e8d62d76",
+      "name" : "stderr",
+      "source" : "5609ac56e8d62d76.txt",
+      "type" : "text/plain",
+      "size" : 454
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_operation_list"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "41700-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_operation_list"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址 \uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/operation/list",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c2deb421fe2d38be.json",
+  "parameterValues" : [ ]
+}

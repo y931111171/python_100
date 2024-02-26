@@ -1,0 +1,80 @@
+{
+  "uid" : "5d22065d42ef2565",
+  "name" : "test_rl_add",
+  "fullName" : "test_case.test_rl_add#test_rl_add",
+  "historyId" : "eb1cde014c774e9f3df3548544101827",
+  "time" : {
+    "start" : 1589805607459,
+    "stop" : 1589805607479,
+    "duration" : 20
+  },
+  "description" : "测试http://calapi.51jirili.com/feedBack/add接口",
+  "descriptionHtml" : "<p>测试http://calapi.51jirili.com/feedBack/add接口</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "测试http://calapi.51jirili.com/feedBack/add接口",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fdb74d220ab80556",
+      "name" : "log",
+      "source" : "fdb74d220ab80556.txt",
+      "type" : "text/plain",
+      "size" : 286
+    }, {
+      "uid" : "2f642a5e04c47600",
+      "name" : "stderr",
+      "source" : "2f642a5e04c47600.txt",
+      "type" : "text/plain",
+      "size" : 422
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_rl_add"
+  }, {
+    "name" : "host",
+    "value" : "dingrui"
+  }, {
+    "name" : "thread",
+    "value" : "20860-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_rl_add"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "测试用例地址\uD83D\uDC47",
+    "url" : "http://calapi.51jirili.com/feedBack/add",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d22065d42ef2565.json",
+  "parameterValues" : [ ]
+}

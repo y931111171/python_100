@@ -1,0 +1,103 @@
+Tue, 26 May 2020 20:26:25-run_all_case.py-run_all_case.py-[line:24]-INFO-[日志信息]: ==================================2020-05-26 20:26:25===================================
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_config_common.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_config_common:
+
+Tue, 26 May 2020 20:26:26-test_config_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_config_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_dream_categoryList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_categoryList:
+
+Tue, 26 May 2020 20:26:26-test_dream_categoryList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_dream_categoryList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_dream_dreamInfoContent.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoContent:
+
+Tue, 26 May 2020 20:26:26-test_dream_dreamInfoContent-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_dream_dreamInfoContent-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_dream_dreamInfoList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoList:
+
+Tue, 26 May 2020 20:26:26-test_dream_dreamInfoList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_dream_dreamInfoList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_dream_hotDream.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_hotDream:
+
+Tue, 26 May 2020 20:26:26-test_dream_hotDream-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_dream_hotDream-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_operation_list.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Tue, 26 May 2020 20:26:26-test_operation_list-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_operation_list-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_rl_add.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Tue, 26 May 2020 20:26:26-test_rl_add-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_rl_add-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-test_rl_common.py-[line:31]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Tue, 26 May 2020 20:26:26-test_rl_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:26-test_rl_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:26-run_all_case.py-run_all_case.py-[line:28]-INFO-[日志信息]: 脚本执行完成
+Tue, 26 May 2020 20:26:26-run_all_case.py-run_all_case.py-[line:37]-INFO-[日志信息]: 开始执行报告生成
+Tue, 26 May 2020 20:26:30-run_all_case.py-run_all_case.py-[line:40]-INFO-[日志信息]: 报告生成完毕
+Tue, 26 May 2020 20:26:53-run_all_case.py-run_all_case.py-[line:24]-INFO-[日志信息]: ==================================2020-05-26 20:26:53===================================
+Tue, 26 May 2020 20:26:53-run_all_case.py-test_config_common.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_config_common:
+
+Tue, 26 May 2020 20:26:54-test_config_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_config_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_dream_categoryList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_categoryList:
+
+Tue, 26 May 2020 20:26:54-test_dream_categoryList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_dream_categoryList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_dream_dreamInfoContent.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoContent:
+
+Tue, 26 May 2020 20:26:54-test_dream_dreamInfoContent-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_dream_dreamInfoContent-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_dream_dreamInfoList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoList:
+
+Tue, 26 May 2020 20:26:54-test_dream_dreamInfoList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_dream_dreamInfoList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_dream_hotDream.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_hotDream:
+
+Tue, 26 May 2020 20:26:54-test_dream_hotDream-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_dream_hotDream-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_operation_list.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Tue, 26 May 2020 20:26:54-test_operation_list-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_operation_list-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_rl_add.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Tue, 26 May 2020 20:26:54-test_rl_add-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_rl_add-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-test_rl_common.py-[line:31]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Tue, 26 May 2020 20:26:54-test_rl_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:26:54-test_rl_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:26:54-run_all_case.py-run_all_case.py-[line:28]-INFO-[日志信息]: 脚本执行完成
+Tue, 26 May 2020 20:42:13-run_all_case.py-run_all_case.py-[line:24]-INFO-[日志信息]: ==================================2020-05-26 20:42:13===================================
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_config_common.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_config_common:
+
+Tue, 26 May 2020 20:42:13-test_config_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_config_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_dream_categoryList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_categoryList:
+
+Tue, 26 May 2020 20:42:13-test_dream_categoryList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_dream_categoryList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_dream_dreamInfoContent.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoContent:
+
+Tue, 26 May 2020 20:42:13-test_dream_dreamInfoContent-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_dream_dreamInfoContent-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_dream_dreamInfoList.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_dreamInfoList:
+
+Tue, 26 May 2020 20:42:13-test_dream_dreamInfoList-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_dream_dreamInfoList-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_dream_hotDream.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_dream_hotDream:
+
+Tue, 26 May 2020 20:42:13-test_dream_hotDream-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_dream_hotDream-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_operation_list.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_operation_list:
+
+Tue, 26 May 2020 20:42:13-test_operation_list-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_operation_list-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_rl_add.py-[line:35]-INFO-[日志信息]: 开始执行脚本test_rl_add:
+
+Tue, 26 May 2020 20:42:13-test_rl_add-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_rl_add-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
+Tue, 26 May 2020 20:42:13-run_all_case.py-test_rl_common.py-[line:31]-INFO-[日志信息]: 开始执行脚本test_rl_common:
+
+Tue, 26 May 2020 20:42:13-test_rl_common-Assert.py-[line:32]-INFO-[日志信息]: statusCode true, expected_code is 0, statusCode is 0 
+Tue, 26 May 2020 20:42:13-test_rl_common-Assert.py-[line:51]-INFO-[日志信息]: Response body msg == expected_msg, expected_msg is 执行成功, body_msg is 执行成功
